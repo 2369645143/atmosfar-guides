@@ -19,24 +19,28 @@ For the interactive version featuring client-side localStorage checklists, respo
 ## 📚 Document Index
 
 ### English Guides (`./en/`)
-* [Starter 30-Minute Survival Checklist](en/starter-survival-checklist.md) - Altitude zones, glider deployment & initial Wasp restoration.
+* [Wildlife Safety Guide](en/wildlife-safety.md) - Eight creature and plant entries, warning signs and response tips.
+* [First Expedition Checklist](en/starter-survival-checklist.md) - Tools, backpack charge, camp power and Utility Wasp preparation.
+* [Fuel & Power Guide](en/fuel-and-power.md) - Hydrogen refueling, Camp Hub connections and repairs.
 * [Beginner Sky Survival Guide](en/beginner-guide.md) - 10 essential rules for early-game survival on Tycos.
 * [Prologue Walkthrough](en/prologue-walkthrough.md) - Escape pod crash site to Cloud Cruiser carrier recovery.
 * [Crafting & Blueprints Guide](en/crafting-and-blueprints.md) - Workstations, alloy plates, and schematic decoding.
 * [Weapons & Aerial Dogfights](en/weapons-and-combat.md) - Kinetic autocannons, pulse lasers, and carrier point defense.
 * [Materials & Mining Extraction](en/materials-and-mining.md) - Luminescent sky crystals, titanium scrap, and tow winches.
 * [Oxygen & Altitude Stratification](en/oxygen-management.md) - Atmospheric pressure tiers, hypoxic danger thresholds, and O2 scrubbers.
-* [4-Player Co-op & Squad Roles](en/co-op-multiplayer.md) - Cloud Cruiser crew stations, P2P hosting, and network drop recovery.
+* [Co-op & Hosting FAQ](en/co-op-multiplayer.md) - Player-hosted sessions, dedicated-server status and save planning.
 
 ### 中文攻略 (`./zh/`)
-* [开荒 30 分钟生存保命打卡清单](zh/starter-survival-checklist.md) - 气压维生、地热暖气流利用与黄蜂机体抢修。
+* [危险生物避险指南](zh/wildlife-safety.md) - 八种生物与植物的识别、危险信号和应对建议。
+* [首次远征准备清单](zh/starter-survival-checklist.md) - 工具、背包电量、营地供电与黄蜂准备。
+* [燃料与供电指南](zh/fuel-and-power.md) - 液氢补给、营地枢纽、工具充电与维修。
 * [开荒新手十大避坑法则](zh/beginner-guide.md) - 滑翔翼、抓钩避险与高空生存关键技巧。
 * [序章通关流程全图解](zh/prologue-walkthrough.md) - 逃生舱脱困、滑翔翼抢修与夺取云际巡航母舰。
 * [制作系统与母舰工作间指南](zh/crafting-and-blueprints.md) - 三阶科技树、反应堆电网负荷与废墟蓝图回收。
 * [空战机动与载具武装](zh/weapons-and-combat.md) - 动能机炮、脉冲破盾光束与母舰 360 度近防点防卫网。
 * [天晶矿脉与高空废墟开采](zh/materials-and-mining.md) - 发光天晶、航空废料与黄蜂机载拖曳绞盘开采实操。
 * [氧气管理与高空高度层机制](zh/oxygen-management.md) - 三大垂直气压带、便携氧气罐提炼与水耕充能。
-* [四人联机合作与组队分工](zh/co-op-multiplayer.md) - 舰桥指挥、反应堆电网调配与客机重连机制。
+* [联机与房主 FAQ](zh/co-op-multiplayer.md) - 玩家主持会话、独立服务器状态与存档准备。
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "ATMOSFAR Co-op Multiplayer Guide: 4-Player Sessions"
-description: "Master 4-player co-op in ATMOSFAR. Learn squad crew roles for the Cloud Cruiser, how to host private flight sessions, and resolve connection errors."
+title: "ATMOSFAR Co-op FAQ: Players, Hosting & Save Planning"
+description: "Plan four-player ATMOSFAR co-op: player hosting, dedicated-server status, save questions and practical connection checks."
 category: "Multiplayer Co-op"
-badge: "PVE MULTIPLAYER • OCT 2026"
+badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
 updatedDate: "2026-10-16"
@@ -10,46 +10,40 @@ icon: "ri-team-line"
 lang: "en"
 ---
 
-**ATMOSFAR** is engineered from the ground up for cooperative aerial teamwork. While solo flight is completely viable, operating a massive **Cloud Cruiser** mobile airbase while defending against aggressive aerial fauna becomes infinitely more manageable when coordinating across a specialized 4-player squad.
+## Pick a host before planning the expedition
 
-This guide details recommended crew specializations, multiplayer session setup, and proven fixes for common peer-to-peer network drops.
+These answers separate developer-announced co-op plans from editorial preparation advice. They do not invent invitation menus or save paths.
 
----
+## How many players can play together?
 
-## The Four Essential Squad Roles
+The main game is announced for solo play or online co-op with up to four players. The group can explore and work on a shared Cloud Cruiser. This describes the main game, not a promise that every demo build supports multiplayer. [Source](https://store.steampowered.com/app/1798230/ATMOSFAR/)
 
-To maintain an operational fleet in hostile sky biomes, assign your 4-player crew into distinct flight disciplines:
+## Who hosts the session?
 
-### 1. Cloud Cruiser Helmsman (Commander)
-* **Primary Station**: Main bridge flight console.
-* **Responsibilities**: Navigation between floating island clusters, adjusting cruising altitude to avoid severe turbulence, and orienting the carrier's defensive turrets toward incoming hostiles.
+The developer describes Early Access as player-hosted client-server co-op. One player runs the host session; the others join it. The exact invitation menus and join steps must follow the released build. [Source](https://steamcommunity.com/app/1798230/discussions/0/3823032780422253929/)
 
-### 2. Fleet Engineer & Power Architect
-* **Primary Station**: Engine reactor room & battery conduits.
-* **Responsibilities**: Managing reactor energy balancing between shields, engine plasma output, and life-support oxygen scrubbers. Instantly repairs blown capacitors during electromagnetic cloud storms.
+## Can we keep playing the same session when the host is offline?
 
-### 3. Lead Scout Pilot (Wasp Specialist)
-* **Primary Station**: Forward catapult landing bay.
-* **Responsibilities**: Launches in the high-mobility Wasp craft to scout uncharted islands, deploy landing beacons, and retrieve high-value salvage pods too delicate for the heavy cruiser to approach.
+A player-hosted session needs its host to be running. Schedule shared sessions with that player available. Do not assume automatic host migration, an always-on world or an offline continuation feature unless your build explicitly provides it. [Source](https://steamcommunity.com/app/1798230/discussions/0/3823032780422253929/)
 
-### 4. Expedition Salvager & Ground Gunner
-* **Primary Station**: Winch airlock & point-defense turrets.
-* **Responsibilities**: Descends onto island surfaces via grapple ropes to mine mineral veins, fend off ground predators, and hook cargo crates directly into the carrier's retrieval nets.
+## Are dedicated servers confirmed?
 
----
+Not in the developer reply checked here. The team said it was open to investigating player-run dedicated servers but could not promise them. Player hosting does not itself mean a headless dedicated-server download is available. [Source](https://steamcommunity.com/app/1798230/discussions/0/3823032780422253929/)
 
-## Hosting & Joining Co-op Flight Sessions
+## Who keeps the save, and can we transfer it?
 
-ATMOSFAR utilizes the **Steam P2P Networking Infrastructure**:
-1. **Hosting a World**: From the main menu, select *Launch Expedition* -> *Host Co-op Session*.
-2. **Setting Privacy**: Choose between *Friends Only* or *Invite Code*. We strongly recommend password-protecting private airbases during Early Access.
-3. **Save Ownership**: The host player permanently retains world progression, island discovery coordinates, and Cloud Cruiser modular construction. Client players retain personal gear, suit upgrades, and custom Wasp airframe loadouts.
+Before investing in a shared world, agree who will host and keep backups using the released game’s supported save tools. We have not verified a final save path, transfer procedure, client inventory persistence or demo-to-EA migration. Steam Cloud being listed does not establish those details. [Source](https://store.steampowered.com/app/1798230/ATMOSFAR/)
 
----
+## Can Steam and Epic players join each other?
 
-## Troubleshooting Multiplayer Drops & Connection Errors
+The publisher lists both PC storefronts, but that alone does not confirm cross-store co-op. Check the launch announcement and your build’s invitation options before buying copies on different stores for a shared session. [Source](https://shueisha-games.com/en/games/atmosfar/)
 
-If your squad encounters connectivity hitches during high-speed fleet formations:
-* **NAT Type Traversal**: Ensure Steam's client ports (UDP 27000-27100) are forwarded or permitted in Windows Defender Firewall.
-* **Host Bandwidth Allocation**: Because physics for the Cloud Cruiser are calculated on the host machine, ensure the player with the lowest ping and highest upload bandwidth hosts the session.
-* **Reconnection to Moving Carrier**: If a teammate disconnects while airborne, they will safely respawn inside the Cloud Cruiser's medical bay upon rejoining rather than falling through the sky.
+## What should we try if joining fails?
+
+Editorial first checks: ensure everyone uses a compatible game version, restart the host session and game clients, check the exact error message and review game firewall prompts. We do not prescribe guessed port ranges or a fixed upload-speed requirement. Capture the error and build number before reporting a recurring failure.
+
+## Suggested crew duties
+
+Rotate piloting, salvage, repair/resupply and route notes. These are suggested collaboration duties, not fixed character classes or a skill tree.
+
+[Prepare your expedition checklist](/guides/starter-survival-checklist/) · [Fuel and power guide](/guides/fuel-and-power/)

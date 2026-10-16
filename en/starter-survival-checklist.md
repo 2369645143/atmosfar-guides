@@ -1,52 +1,48 @@
 ---
-title: "ATMOSFAR Starter Survival Checklist: First 30 Mins"
-description: "Step-by-step beginner survival guide for ATMOSFAR. Learn how to prevent hypoxia, master your emergency glider, and repair your first Wasp scout vessel."
+title: "ATMOSFAR First Expedition Checklist: Fuel & Field Prep"
+description: "Prepare your Utility Wasp, tools, camp power and liquid hydrogen for an ATMOSFAR expedition. Save and share your checklist."
 category: "Starter Guides"
-badge: "EARLY ACCESS READY • OCT 2026"
-readingTime: "6 min read"
+badge: "DEVELOPER SOURCE GUIDE"
+readingTime: "5 min read"
 publishDate: "2026-10-16"
 updatedDate: "2026-10-16"
 icon: "ri-checkbox-circle-line"
 lang: "en"
 ---
 
-When you awaken on the fragmented floating islands of **planet Tycos**, the horizon stretches endlessly into cloud canyons. Unlike conventional ground-based survival games where hunger or predators pose the immediate threat, **ATMOSFAR** introduces vertical physics: atmospheric pressure drops, finite oxygen canisters, and lethal abyss voids.
+Use this checklist to prepare for an expedition, rather than as a timed prologue walkthrough. Prepare yourself, establish field support, then check your Wasp. Mark, save and share tasks in the interactive checklist above.
 
-This guide provides a structured 30-minute survival progression to ensure you secure your first working flight vessel and establish safe contact with your team's **Cloud Cruiser** mobile airbase.
+## Eight departure checks
 
----
+### 1. Prepare yourself and your tools
 
-## Phase 1: Immediate Awakening & Life Support Calibration
+- **Check your suit and life support**：Check the current HUD and in-game tutorial before leaving safety. Follow the build’s prompts for life support and equipment.
+- **Charge your backpack battery**：Tools use electricity. The developer describes charging from sunlight, bioluminescent plants and suitable power connections.
+- **Prepare an Extractor and Welder**：Use the Extractor for scrap recovery and the Welder for repairs. Check required materials before heading out.
 
-### 1. Oxygen Regulator Check
-Your survival suit is equipped with a basic atmospheric filter. On Tycos, atmospheric gas density fluctuates sharply with altitude:
-* **Green Altitude Zone (0m - 1,200m)**: Standard oxygen filtration; suit consumes nominal reserve cells.
-* **Yellow Hypoxic Band (1,200m - 2,500m)**: Filter degradation increases 2.5x; requires pressurized canisters.
-* **Red Void Zone (Below 0m)**: Fatal toxic cloud strata; dipping below sea-level equivalent triggers rapid suit dissolution.
+### 2. Set up your field support
 
-> [!IMPORTANT]
-> Immediately scavenge 15 units of **Aerograde Scraps** from the crashed escape pod nearby to assemble an emergency filter before attempting vertical jumps.
+- **Practice a short jetpack trip**：Start close to a safe landing area. The jetpack is intended for short flights; leave room to return.
+- **Connect your Camp Hub**：The Utility Wasp supports a portable camp. Use the Camp Hub to distribute power and check connected equipment demand.
 
----
+### 3. Prepare your Utility Wasp
 
-## Phase 2: Mastering the Glider & Grapple Winch
+- **Inspect and repair your Wasp**：Check damage and repair with a Welder and the materials shown in game. Plan a nearby destination first.
+- **Prepare liquid hydrogen fuel**：Hydrogen crystals are refined into liquid hydrogen. Check refinery power, fuel reserves and your return route.
+- **Check your return and resupply plan**：Before takeoff, check fuel, tool charge and repair supplies. Keep your camp or established airbase within your expedition plan.
 
-Cross-island travel requires mastering personal aerodynamics before you ever step foot inside a cockpit:
-1. **Double-Tap Deployment**: Double-tap `Space` while falling to deploy your lightweight composite glider wings.
-2. **Thermal Lift Utilization**: Look for swirling white plumes rising from island chasms. These are **Geothermal Updrafts**; flying through them restores altitude without consuming propellant.
-3. **Emergency Anchor Grapple**: When missing a cliff edge, fire your grappling winch (`F` on keyboard, `X` on controller) to anchor yourself and pull onto solid rock.
+## Your previous progress
 
----
+The revised checklist has its own save. Previous completion remains preserved and its count is shown; different tasks are not migrated by their old position. Reset affects only revised progress. Importing a current share link adds completion without clearing your existing tasks.
 
-## Phase 3: Restoring Your Crashed Wasp Vessel
+## Next steps
 
-Every pioneer begins with a damaged **Wasp Class Scout**—a high-agility twin-rotor VTOL craft:
-* **Step A: Locate the Distress Beacon**: Tune your suit's radio compass to the pulsing 142.8 MHz beacon located roughly 300 meters north of your landing site.
-* **Step B: Clear Debris & Inspect Airframe**: Remove collapsed girder debris with your hand cutter to expose the core avionics bay.
-* **Step C: Synthesize Plasma Fuel**: Gather raw sky-crystals from mineral fissures and refine them into high-energy plasma fuel cells.
-* **Step D: Ignition & Vertical Lift-Off**: Hold `Shift + W` to spin up twin counter-rotating lift rotors, ascend into the cloud bank, and engage landing gears to dock with the overhead Cloud Cruiser.
+- [Fuel and power guide](/guides/fuel-and-power/)
+- [Co-op and hosting FAQ](/coop/)
 
----
+## Sources
 
-## Interactive Progress Checklist
-You can track and save these survival milestones directly inside our [Interactive Starter Checklist](/) on the homepage, which remembers your checkmarks across gaming sessions.
+These development-era descriptions explain the systems; individual details may change in the release build.
+
+- [Wasp 101 — 2025-03-03](https://www.atmosfar.game/feed/dev-blog-5-wasps-101)
+- [Life of a Vagabond — 2025-04-10](https://www.atmosfar.game/feed/dev-blog-6-life-of-a-vagabond)
