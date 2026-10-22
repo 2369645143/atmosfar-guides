@@ -1,49 +1,38 @@
 ---
-title: "ATMOSFAR Crafting Guide: Blueprints & Fabrication Labs"
-description: "Master fabrication benches and blueprint recovery in ATMOSFAR. Upgrade airship chassis, craft plasma thrusters, and maintain life support."
-category: "Crafting & Technology"
-badge: "EARLY ACCESS SYSTEM • OCT 2026"
-readingTime: "5 min read"
+title: "ATMOSFAR Crafting Guide: Camp Equipment & Artifact Research"
+description: "Use the crafting table and research desk for different tasks. Plan materials and camp power with developer-described mechanics."
+sourceNote: "Based on official development diaries, checked on 2026-10-16. These describe alpha or EA beta builds; release-build controls and numerical values have not been tested."
+category: "Crafting & Research"
+badge: "DEVELOPER SOURCE GUIDE"
+readingTime: "3 min read"
 publishDate: "2026-10-16"
 updatedDate: "2026-10-16"
 icon: "ri-tools-fill"
 lang: "en"
 ---
 
-Crafting in **ATMOSFAR** bridges raw survival scavenged from shattered floating islands with high-tech aerospace engineering. Unlike games with simple inventory crafting, manufacturing advanced flight equipment requires specialized workstations housed inside your **Cloud Cruiser** aerial fortress.
+## Use the right station
 
----
+The developer describes a crafting table that shows equipment requirements and materials held. A separate research desk studies artifacts and can unlock craftables. The Camp Hub distributes power; the refinery makes Wasp fuel. These are distinct jobs. [Camp systems source](https://www.atmosfar.game/feed/dev-blog-6-life-of-a-vagabond).
 
-## 1. The Three Tiers of Fabrication Stations
+## A practical crafting routine
 
-### Tier 1: Personal Field Survival Kit
-* **Location**: Integrated into the explorer's exosuit.
-* **Capabilities**: Handheld emergency repairs, basic fabric bandages, portable water filters, and single-use oxygen syringes.
-* **Limitations**: Cannot process raw celestial ores or fabricate metallic hull plates.
+The sequence below is editorial advice:
 
-### Tier 2: Carrier Mechanical Workshop
-* **Location**: Cloud Cruiser main hanger floor.
-* **Capabilities**: Structural airship alloy plates, Wasp scout rotor blade replacements, grappling hook cables, and standard kinetic ammunition boxes.
-* **Power Draw**: 6 kW baseline from the carrier's auxiliary solar batteries.
+1. Choose the equipment you need at the crafting table.
+2. Compare its displayed requirements with your inventory and record shortages.
+3. Gather only the missing materials, then recheck the recipe before spending them.
+4. For an artifact, inspect the research desk’s available action instead of assuming it is an ordinary construction ingredient.
+5. After crafting, check the result in your inventory or camp. If the machine will not operate, review its power connection and current input requirements.
 
-### Tier 3: Plasma Metallurgy & Electronics Lab
-* **Location**: Cloud Cruiser mid-deck laboratory module.
-* **Capabilities**: Ion thruster coils, electrostatic barrier emitters, automated point-defense AI cores, and high-altitude pressurized flight helmets.
-* **Power Draw**: 18 kW requiring dedicated reactor routing.
+Exact recipes and unlock results must come from your installed build.
 
----
+## Moving camp: distinguish an announced feature
 
-## 2. Blueprint Schematic Recovery
+The April 2026 update describes planned EA support for saving a camp layout and redeploying it through the Camp Hub. It also reports a more visible packing prompt. Check which options your build actually offers; the announcement does not establish a universal packing key. [Camp update](https://www.atmosfar.game/feed/dev-blog-15-cloud-cruising-to-early-access).
 
-Advanced components cannot be crafted from guesswork—they require recovering intact data cores and blueprint schematics:
+[Fuel & camp power](/guides/fuel-and-power/) · [Cargo recovery](/guides/cargo-wasp-salvage/) · [Expedition checklist](/guides/starter-survival-checklist/)
 
-1. **Derelict Colony Spreading Stations**: Floating towers contain locked encrypted terminals. Hacking them requires maintaining proximity while defending against airborne fauna.
-2. **Crashed Orbital Cargo Pods**: Occasionally spotted smoking on high-elevation peaks. Cut through the reinforced cargo hatch using a vibration laser cutter to retrieve rare blueprints.
-3. **Research Archive Decoding**: Bring damaged blueprint fragments to the Cloud Cruiser's decoding computer to reconstruct complete manufacturing schematics.
+## Source scope
 
----
-
-## 3. Power Balancing & Safe Fabrication Advice
-
-* **Monitor Grid Capacity**: Running the plasma forge while simultaneously charging shields can trip circuit breakers, cutting life support during high-altitude transits.
-* **Refine in Small Batches**: Smelting raw celestial crystals generates considerable waste heat. Allow coolant radiators to reset before loading maximum ore quantities.
+Life of a Vagabond, 2025-04-10, describes an alpha build. The camp update, 2026-04-09, describes EA beta development. Checked 2026-10-16. These sources do not establish a three-tier fabrication tree, fixed kW requirements or a blueprint-fragment decoding recipe.
