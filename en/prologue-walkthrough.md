@@ -1,56 +1,42 @@
 ---
-title: "ATMOSFAR Prologue Guide: Tycos Awakening to First Flight"
-description: "Step-by-step walkthrough of ATMOSFAR's opening prologue. Escape the escape pod crash site, repair your glider, and commandeer the Cloud Cruiser."
+title: "ATMOSFAR Prologue & First Flight: Utility Wasp Guide"
+description: "Prepare for ATMOSFAR’s opening flight, identify the Utility Wasp and check objectives, repairs and fuel without mixing old Demo steps with Early Access."
 category: "Walkthrough"
-badge: "EARLY ACCESS SYSTEM • OCT 2026"
-readingTime: "6 min read"
+badge: "SOURCE CHECK · 2026-10-28"
+readingTime: "4 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-28"
 icon: "ri-map-pin-line"
 lang: "en"
 ---
 
-The opening chapter of **ATMOSFAR** deposits your survivor onto a crumbling floating plateau amidst the stormy skies of **Tycos**. This walkthrough guides you through every critical objective from awakening inside your smoldering escape pod to successfully launching the **Cloud Cruiser** carrier.
 
----
+## Before following an opening walkthrough
+Checked **October 28, 2026**, before the announced Early Access unlock. This is an opening-flight preparation guide, not a tested sequence for the release build. Exact starting inventory, oxygen percentages, repair quantities, fuel inputs and default keys are not established here.
 
-## Phase 1: Escape Pod Evacuation & Oxygen Check
+## Utility Wasp or Scout Wasp?
+The October 27 developer blog describes the **Utility Wasp** as the early expedition craft, with its portable camp. **Scout Wasp** belongs to the planned **The Rime** update. This page's old Scout-hangar sequence was unsupported and has been withdrawn.
 
-1. **Disembark the Pod**: Kick open the damaged hatch using `E`. Immediately check your HUD at the top-left: your personal oxygen reserve starts at 65%.
-2. **Loot the Supply Crate**: Right next to the landing skid, open the green survival container to obtain:
-   * 1x Pneumatic Grapple Gun
-   * 2x Emergency Oxygen Syringes
-   * 1x Personal Aerofoil Glider (Damaged)
-3. **Equip Handheld Scanner**: Tap `C` to reveal a pathway leading east across a narrow rock bridge.
+Use [Wasp classes](/guides/wasp-classes-guide/) to distinguish the Utility, Hauler and Striker roles before choosing a task. Do not assume a future Scout is needed to complete the opening.
 
----
+## A first-flight preparation checklist
+The following is planning advice; follow the objectives and prompts in your installed build.
+1. Record the game version and whether you are playing an old Demo or Early Access. Keep those instructions separate.
+2. Read the active objective and inspect the marked interaction. If a repair or unlock is required, use the material list shown there, rather than a quantity from an older guide.
+3. Check the vehicle's name and available resource readouts. Before refueling, compare the required input and interaction prompt with the item you hold; this guide does not prescribe a fuel recipe.
+4. Review flight actions in the current controls menu. Check takeoff, direction and landing inputs before leaving a safe area.
+5. If progress stops, record the objective text, craft name, inventory and last completed action. Report a repeatable block rather than repeatedly consuming materials.
 
-## Phase 2: Repairing the Personal Glider
+## Repair, fuel or door prompt missing?
+First distinguish an unmet objective from an input problem. Compare the objective, target and current binding; try the action once after leaving a text/menu focus. These are checks, not confirmed fixes. Do not delete a save or settings file to reproduce a forum workaround.
 
-The rock bridge collapses as you step onto it. 
+## What changes after your first expedition?
+The official overview describes landing the Utility Wasp to set up camp for crafting, cooking and rest. It does not establish the old timed route, altitude target or Cloud Cruiser recovery sequence previously printed here. See [Cloud Cruiser and first base](/guides/cloud-cruiser-first-base/) for the confirmed system overview.
 
-1. **Fire the Grapple**: Tap `F` to latch onto the opposing cliff face before falling into the lower storm layer.
-2. **Collect 4x Aerograde Scrap**: Look for the smoking engine cowl wedged in the boulder ahead. Interact to harvest scrap metal.
-3. **Patch the Glider Fabric**: Open your inventory (`Tab`), select the damaged glider, and craft the patch kit. You can now double-tap `Space` to glide short distances.
+## Controls and reporting
+Use the [controls checklist](/controls/) for remapping questions. Historical Demo reports cannot prove an EA control bug. Include your version and exact objective in a report; official release notes and the in-game reporting tool are the next reference points.
 
----
+## Source
+[Official Dev Blog 20, October 27](https://www.atmosfar.game/feed/dev-blog-20-on-the-threshold-of-atmosfar), checked October 28, 2026. [Release time and price](/release-date/).
 
-## Phase 3: The Wasp Scout Hangar
-
-Glide across the gorge toward the abandoned colonial research outpost.
-
-1. **Restore Outpost Power**: Locate the solar breaker box on the exterior wall. Flip the circuit lever to unlock the hangar blast doors.
-2. **Inspect the Wasp Scout**: The twin-rotor vessel inside has an empty fuel cell.
-3. **Refuel the Core**: Harvest 2x Chemical Fuel Pellets from the backup generator in the rear office, then load them into the Wasp's starboard intake port.
-4. **Take to the Skies**: Board the cockpit (`E`). Hold `Shift + W` to lift off vertically.
-
----
-
-## Phase 4: Recovering the Cloud Cruiser
-
-Your HUD will calibrate an emergency homing beacon approximately 1.5 km northeast:
-
-1. Follow the cyan waypoint while maintaining an altitude of 1,800 meters.
-2. Approach the drifting **Cloud Cruiser** from the rear lower quadrant.
-3. Touch down on the carrier's primary flight deck and engage landing gear (`G`).
-4. Enter the command bridge to stabilize reactor power and establish your permanent aerial base of operations!
+[Fuel and power systems](/guides/fuel-and-power/): check the cited version for refueling context; follow the current objective for opening requirements.

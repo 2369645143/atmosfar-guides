@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Strategy_Hub-ATMOSFAR_Wiki-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://atmosfarwiki.com)
 [![Interactive Checklist](https://img.shields.io/badge/Tool-Starter_Checklist-38bdf8?style=for-the-badge&logo=checkmarx)](https://atmosfarwiki.com/guides/starter-survival-checklist/)
-[![Flight Keybinds](https://img.shields.io/badge/Controls-Keybinds_Matrix-f59e0b?style=for-the-badge&logo=steam)](https://atmosfarwiki.com/controls/)
+[![Flight Keybinds](https://img.shields.io/badge/Controls-Controls_Checklist-f59e0b?style=for-the-badge&logo=steam)](https://atmosfarwiki.com/controls/)
 [![Altitude Tool](https://img.shields.io/badge/Tool-Altitude_Simulator-10b981?style=for-the-badge&logo=speedtest)](https://atmosfarwiki.com/tools/altitude-calculator/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
 
@@ -11,7 +11,7 @@ Welcome to the open-source documentation repository for **ATMOSFAR** (Apog Labs 
 ---
 
 ## 🧭 Live Web Hub & Tools
-For the interactive version featuring client-side localStorage checklists, responsive airbase module filters, flight altitude simulators, and video walk-throughs, visit the live production hub:
+For the interactive version featuring client-side localStorage checklists, responsive airbase module filters, altitude planning notes, and video walk-throughs, visit the live production hub:
 👉 **[https://atmosfarwiki.com](https://atmosfarwiki.com)** (中文入口: [https://atmosfarwiki.com/zh/](https://atmosfarwiki.com/zh/))
 
 ---
@@ -26,7 +26,7 @@ For the interactive version featuring client-side localStorage checklists, respo
 * [First Expedition Checklist](en/starter-survival-checklist.md) - Tools, backpack charge, camp power and Utility Wasp preparation.
 * [Fuel & Power Guide](en/fuel-and-power.md) - Hydrogen refueling, Camp Hub connections and repairs.
 * [Beginner Sky Survival Guide](en/beginner-guide.md) - 10 essential rules for early-game survival on Tycos.
-* [Prologue Walkthrough](en/prologue-walkthrough.md) - Escape pod crash site to Cloud Cruiser carrier recovery.
+* [Prologue Walkthrough](en/prologue-walkthrough.md) - Utility Wasp first-flight preparation; unverified opening steps withdrawn.
 * [Crafting & Research Guide](en/crafting-and-blueprints.md) - Camp equipment requirements, artifact research and relocation scope.
 * [Weapons & Aerial Dogfights](en/weapons-and-combat.md) - Kinetic autocannons, pulse lasers, and carrier point defense.
 * [Materials & Mining Extraction](en/materials-and-mining.md) - Luminescent sky crystals, titanium scrap, and tow winches.
@@ -60,3 +60,8 @@ For the interactive version featuring client-side localStorage checklists, respo
 - [Beginner Guide](https://atmosfarwiki.com/guides/beginner-guide/) · [中文](https://atmosfarwiki.com/zh/guides/beginner-guide/)
 - [Cloud Cruiser First Base](https://atmosfarwiki.com/guides/cloud-cruiser-first-base/) · [中文](https://atmosfarwiki.com/zh/guides/cloud-cruiser-first-base/)
 - [Wasp Classes Guide](https://atmosfarwiki.com/guides/wasp-classes-guide/) · [中文](https://atmosfarwiki.com/zh/guides/wasp-classes-guide/)
+
+## Community questions reviewed · 2026-10-28 / 社区问题补充
+
+- [guides/prologue-walkthrough](en/prologue-walkthrough.md) · [中文](zh/prologue-walkthrough.md) · [Website](https://atmosfarwiki.com/guides/prologue-walkthrough/)
+- [controls](en/controls.md) · [中文](zh/controls.md) · [Website](https://atmosfarwiki.com/controls/)
