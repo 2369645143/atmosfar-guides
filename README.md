@@ -54,3 +54,9 @@ For the interactive version featuring client-side localStorage checklists, respo
 1. Fork this repository.
 2. Submit typo fixes, newly verified Early Access recipes, or flight keybind additions via Pull Request.
 3. Ensure all numbers are verified against live gameplay before submission.
+
+## October 28 guide updates / 10 月 28 日攻略更新
+
+- [Beginner Guide](https://atmosfarwiki.com/guides/beginner-guide/) · [中文](https://atmosfarwiki.com/zh/guides/beginner-guide/)
+- [Cloud Cruiser First Base](https://atmosfarwiki.com/guides/cloud-cruiser-first-base/) · [中文](https://atmosfarwiki.com/zh/guides/cloud-cruiser-first-base/)
+- [Wasp Classes Guide](https://atmosfarwiki.com/guides/wasp-classes-guide/) · [中文](https://atmosfarwiki.com/zh/guides/wasp-classes-guide/)
