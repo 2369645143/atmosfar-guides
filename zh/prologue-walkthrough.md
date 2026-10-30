@@ -2,10 +2,10 @@
 title: "ATMOSFAR 序章与首次飞行：Utility Wasp 准备指南"
 description: "区分 ATMOSFAR 的 Utility 与后续 Scout，按当前任务面板检查修理、燃料和起飞准备，避免混用旧 Demo 与抢先体验流程。"
 category: "Walkthrough"
-badge: "资料核验 · 2026-10-28"
+badge: "资料核验 · 2026-10-30"
 readingTime: "约 4 分钟"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-28"
+updatedDate: "2026-10-30"
 icon: "ri-map-pin-line"
 lang: "zh"
 ---
@@ -40,3 +40,7 @@ lang: "zh"
 [官方 10 月 27 日 Dev Blog 20](https://www.atmosfar.game/feed/dev-blog-20-on-the-threshold-of-atmosfar)，核验于 2026-10-28。另见[时间与价格](/zh/release-date/)。
 
 [燃料与电力系统](/zh/guides/fuel-and-power/)：按资料版本核对补给机制，具体开局目标仍以游戏为准。
+
+## 抢先体验开局帮助
+
+Utility Wasp 供电的社区采纳答案、EA 1.0-4 教程复活与研究盘说明，以及尚未确认的营地和洞穴问题，见[开局卡点与营地供电](/zh/guides/opening-problems/)。低帧率、DLAA 变化和加载反馈见[性能排错](/zh/guides/performance-troubleshooting/)。此次补充核验于 2026 年 10 月 30 日，不代表此前开发资料概述已成为实机通关记录。

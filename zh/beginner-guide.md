@@ -2,16 +2,16 @@
 title: "ATMOSFAR 新手入门：首次远征与营地准备"
 description: "准备 ATMOSFAR 首次远征：检查操作设置、选择 Wasp、整理营地，区分首发内容与后续更新。"
 category: "Starter Guides"
-badge: "资料核验 · 2026-10-28"
+badge: "资料核验 · 2026-10-30"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-28"
+updatedDate: "2026-10-30"
 icon: "ri-compass-3-line"
 lang: "zh"
 ---
 
 ## 出发前先确认
-ATMOSFAR 计划于 2026 年 10 月 29 日开启抢先体验。安排游玩前先看[解锁时间与价格](/zh/release-date/)。本页是依据开发者介绍整理的准备建议，没有在首发版本中实测。
+ATMOSFAR 已于 2026 年 10 月 29 日开启抢先体验，即北京时间 10 月 30 日 00:00。购买与首发内容见[Steam 入口与发售指南](/zh/release-date/)。本页是依据开发者介绍整理的准备建议，没有在首发版本中实测。
 
 ## 在当前版本里检查操作
 离开营地前打开输入设置，找到移动、互动、背包，以及当前飞行器提供的操作。先在安全着陆区附近尝试，再进行长途飞行。旧攻略与屏幕提示冲突时，以当前设置为准；这里不提供未经核实的滑翔、钩爪或停靠快捷键。
@@ -27,3 +27,7 @@ ATMOSFAR 计划于 2026 年 10 月 29 日开启抢先体验。安排游玩前先
 
 ## 来源与范围
 核验于 2026-10-28：[Wasp 101](https://www.atmosfar.game/feed/dev-blog-5-wasps-101)（2025 年 3 月的 Alpha 介绍，细节可能变化）、[最新首发概述](https://www.atmosfar.game/feed/dev-blog-20-on-the-threshold-of-atmosfar)。具体键位、配方、氧气消耗和解锁路线仍需当前版本验证。
+
+## 抢先体验开局帮助
+
+Utility Wasp 供电的社区采纳答案、EA 1.0-4 教程复活与研究盘说明，以及尚未确认的营地和洞穴问题，见[开局卡点与营地供电](/zh/guides/opening-problems/)。低帧率、DLAA 变化和加载反馈见[性能排错](/zh/guides/performance-troubleshooting/)。此次补充核验于 2026 年 10 月 30 日，不代表此前开发资料概述已成为实机通关记录。

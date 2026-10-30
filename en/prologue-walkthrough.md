@@ -2,10 +2,10 @@
 title: "ATMOSFAR Prologue & First Flight: Utility Wasp Guide"
 description: "Prepare for ATMOSFAR’s opening flight, identify the Utility Wasp and check objectives, repairs and fuel without mixing old Demo steps with Early Access."
 category: "Walkthrough"
-badge: "SOURCE CHECK · 2026-10-28"
+badge: "SOURCE CHECK · 2026-10-30"
 readingTime: "4 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-28"
+updatedDate: "2026-10-30"
 icon: "ri-map-pin-line"
 lang: "en"
 ---
@@ -40,3 +40,7 @@ Use the [controls checklist](/controls/) for remapping questions. Historical Dem
 [Official Dev Blog 20, October 27](https://www.atmosfar.game/feed/dev-blog-20-on-the-threshold-of-atmosfar), checked October 28, 2026. [Release time and price](/release-date/).
 
 [Fuel and power systems](/guides/fuel-and-power/): check the cited version for refueling context; follow the current objective for opening requirements.
+
+## Early Access opening help
+
+For the community accepted Utility Wasp power connection checks, official EA 1.0-4 tutorial respawn and research-drive notes, and unresolved camp/cave questions, see [opening problems and camp power](/guides/opening-problems/). Low FPS, DLAA changes and loading reports are covered in [performance troubleshooting](/guides/performance-troubleshooting/). This update was checked October 30, 2026; it does not turn the older development-source overview into a playtested release walkthrough.

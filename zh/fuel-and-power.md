@@ -5,7 +5,7 @@ category: "补给与维修"
 badge: "开发者资料指南"
 readingTime: "5 分钟阅读"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-30"
 icon: "ri-flashlight-line"
 lang: "zh"
 ---
@@ -66,3 +66,11 @@ lang: "zh"
 ## 版本与来源
 
 2026 年 10 月 16 日复核上述三篇官方开发日志。它们描述开发期版本，不用于确定发售版的材料数量、产量或精确键位。
+
+## 抢先体验开局帮助
+
+Utility Wasp 供电的社区采纳答案、EA 1.0-4 教程复活与研究盘说明，以及尚未确认的营地和洞穴问题，见[开局卡点与营地供电](/zh/guides/opening-problems/)。低帧率、DLAA 变化和加载反馈见[性能排错](/zh/guides/performance-troubleshooting/)。此次补充核验于 2026 年 10 月 30 日，不代表此前开发资料概述已成为实机通关记录。
+
+## 营地供电：首发社区答案
+
+[社区采纳答案](/zh/guides/opening-problems/#便携营地没电怎么办)区分 Utility Wasp 后方左侧燃料口与右侧电力口，说明发动机运行时可连接 Camp Hub 为营地供电。这是玩家指导，不是实测功率结论；请结合当前界面标签及所链原帖核对。

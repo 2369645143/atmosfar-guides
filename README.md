@@ -18,6 +18,19 @@ For the interactive version featuring client-side localStorage checklists, respo
 
 ## 📚 Document Index
 
+### Early Access is live · 2026-10-30 / 抢先体验已上线
+
+ATMOSFAR is now available in Early Access. This is the developing release, with the completed 1.0 version still ahead. [Open the official Steam store](https://store.steampowered.com/app/1798230/ATMOSFAR/).
+
+ATMOSFAR 已进入抢先体验，完整 1.0 正式版仍在后续计划中。[前往官方 Steam 商店](https://store.steampowered.com/app/1798230/ATMOSFAR/)。
+
+- [Performance troubleshooting](en/performance-troubleshooting.md) · [性能排错](zh/performance-troubleshooting.md) · [Website](https://atmosfarwiki.com/guides/performance-troubleshooting/)
+- [Opening problems and camp power](en/opening-problems.md) · [开局卡点与营地供电](zh/opening-problems.md) · [Website](https://atmosfarwiki.com/guides/opening-problems/)
+
+These notes distinguish official EA 1.0-4 fixes from a community-accepted camp-power answer and unresolved reports. They do not promise a frame rate, recover lost items, or claim a verified Hauler exit route.
+
+攻略区分官方 EA 1.0-4 修复、社区采纳的营地供电答案与尚未确认的问题；不承诺帧率、丢失物品恢复或未经核实的 Hauler 出洞路线。
+
 ### English Guides (`./en/`)
 * [Weather & Navigation](en/weather-and-navigation.md) - Buzzing warnings, weather decisions and return landmarks.
 * [Cargo Wasp Salvage](en/cargo-wasp-salvage.md) - Hoisting jobs and the large scrap recovery loop.

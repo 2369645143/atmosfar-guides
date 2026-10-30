@@ -5,7 +5,7 @@ category: "Survival Systems"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-30"
 icon: "ri-flashlight-line"
 lang: "en"
 ---
@@ -66,3 +66,11 @@ The order above is an editorial diagnostic aid. It is not a claim that every fai
 ## Version and sources
 
 Checked October 16, 2026 against the three linked official development blogs. Those pages describe development builds; they do not establish final ingredient counts, production rates or exact controls.
+
+## Early Access opening help
+
+For the community accepted Utility Wasp power connection checks, official EA 1.0-4 tutorial respawn and research-drive notes, and unresolved camp/cave questions, see [opening problems and camp power](/guides/opening-problems/). Low FPS, DLAA changes and loading reports are covered in [performance troubleshooting](/guides/performance-troubleshooting/). This update was checked October 30, 2026; it does not turn the older development-source overview into a playtested release walkthrough.
+
+## Camp power: launch-day community answer
+
+The [accepted community answer](/guides/opening-problems/#portable-camp-has-no-power) distinguishes the Utility Wasp’s rear-left fuel inlet from its rear-right electrical connection. It says to run the engine and connect the Camp Hub to the Wasp for power. This is player guidance, not a measured power-output claim; check the current interface labels and the linked original thread.
