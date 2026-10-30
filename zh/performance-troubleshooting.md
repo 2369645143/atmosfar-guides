@@ -1,5 +1,6 @@
 ---
-title: "ATMOSFAR 性能排错：低帧率、DLAA 与加载问题指南 | ATMOSFAR Wiki: Early Access"
+title: "ATMOSFAR 性能排错：低帧率、DLAA 与加载问题指南"
+seoTitle: "ATMOSFAR 性能排错：低帧率、DLAA 与加载问题指南 | ATMOSFAR Wiki: Early Access"
 description: "按 EA 1.0-4 官方说明排查 ATMOSFAR 低帧率、DLAA 选项变化和加载问题，整理硬件设置与可重复步骤再反馈。"
 category: "问题排查"
 badge: "抢先体验 · EA 1.0-4"

@@ -1,5 +1,6 @@
 ---
-title: "ATMOSFAR 开局卡点：营地供电、教程复活与研究盘排查 | ATMOSFAR Wiki: Early Access"
+title: "ATMOSFAR 开局卡点：营地供电、教程复活与研究盘排查"
+seoTitle: "ATMOSFAR 开局卡点：营地供电、教程复活与研究盘排查 | ATMOSFAR Wiki: Early Access"
 description: "排查 ATMOSFAR 营地没电、教程复活和研究盘恢复问题，区分官方 EA 1.0-4 修复、社区采纳答案及尚未确认的开局解法。"
 category: "开局排错"
 badge: "抢先体验 · 来源核验"
