@@ -33,6 +33,13 @@ The [EA 1.0-5 notes](https://steamcommunity.com/app/1798230/allnews/), checked O
 
 The [reactor discussion](https://steamcommunity.com/app/1798230/discussions/0/573805072991231149/) includes both an installation suggestion and reports of failed attempts. This guide does not turn that disputed sequence into a guaranteed route. If the problem continues, record the loading step, current objective and version for the in-game bug reporter. See [the current loss/storage distinctions](/guides/opening-problems/#ea-10-5-reactor-and-camp-storage-fixes).
 
+## Docked Camp Hub trunk interaction
+
+[Developer devl0f confirms that docked Camp Hub trunk access is intended](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343), checked October 31, 2026. The reported inability to interact is a tracked bug. The developer suggests a large Wasp pad as a **possible** workaround, without guaranteeing success. A proposed experimental hotfix is not confirmation that a fix has shipped.
+
+Keep this separate from boxes failing to place on extreme terrain, manual-attachment despawn and forgetting where a camp was left. If the trunk is visible but cannot be opened after docking, record that symptom and the pad/version; do not treat it as proof that the contents were deleted. See [the storage symptom helper](/tools/troubleshooting/?symptom=storage) for these distinctions.
+
+
 ## Next steps
 Use the [module overview](/cloud-cruiser-modules/) to plan functions and the [Wasp comparison](/guides/wasp-classes-guide/) to select expedition craft.
 

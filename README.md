@@ -35,6 +35,17 @@ Updated 2026-10-31: these notes distinguish official EA 1.0-4 and EA 1.0-5 fixes
 - [Fuel & backpack power](en/fuel-and-power.md) · [燃料与背包补电](zh/fuel-and-power.md)
 - [Cloud Cruiser first base](en/cloud-cruiser-first-base.md) · [Cloud Cruiser 首个基地](zh/cloud-cruiser-first-base.md)
 
+### Find an answer / 查找当前问题
+
+- [Search guides, topics and tools](https://atmosfarwiki.com/search/) · [全站搜索](https://atmosfarwiki.com/zh/search/)
+- [Troubleshoot by version and symptom](https://atmosfarwiki.com/tools/troubleshooting/) · [按版本与症状排错](https://atmosfarwiki.com/zh/tools/troubleshooting/)
+- [Research desk and camp power](en/crafting-and-blueprints.md) · [研究台与营地供电](zh/crafting-and-blueprints.md)
+- [Weather data and docked camp storage](en/opening-problems.md) · [天气数据与停靠母舰后的箱子交互](zh/opening-problems.md)
+
+These notes separate developer-confirmed behavior from community hints. Planned fixes and possible workarounds are not described as released updates or guaranteed recovery.
+
+攻略分别标明开发者确认的行为与社区提示；计划修复和可能的临时办法不表述为已发布更新或必定找回。
+
 ### English Guides (`./en/`)
 * [Weather & Navigation](en/weather-and-navigation.md) - Buzzing warnings, weather decisions and return landmarks.
 * [Cargo Wasp Salvage](en/cargo-wasp-salvage.md) - Hoisting jobs and the large scrap recovery loop.

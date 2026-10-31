@@ -34,6 +34,13 @@ This does not promise overnight charging or a fixed charge rate; a later player 
 
 A useful preparation routine is to charge tools before salvage work, bring repair materials and leave enough reserve for the return. This routine is editorial advice, not a fixed battery-capacity requirement.
 
+## Research power: monitor the Hub while it runs
+
+Research can drain camp power **over time**. In a [developer reply checked October 31](https://steamcommunity.com/app/1798230/discussions/0/573805072991219592/#c573805072991220489), devl0f names the Utility Wasp, fuel generator and researched solar panels as supply options and points players to the Hub panel. Check that supply remains available during the task; do not infer a fixed wattage or a finished UX fix from that answer.
+
+See [research desk power checks](/guides/crafting-and-blueprints/#research-desk-power-over-time) and the [power symptom filter](/tools/troubleshooting/?symptom=power). A camp machine lacking electricity and a docked trunk that will not interact are different symptoms.
+
+
 ## Camp equipment will not run
 
 The **Camp Hub** connects a Utility Wasp to electrical camp equipment. Check:

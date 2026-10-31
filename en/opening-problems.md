@@ -40,6 +40,19 @@ First read the target name in your active objective. The [PACE Scope frequency d
 
 If tuning does not advance the objective, record its exact text, target name and installed version rather than assuming that repeating a number completes every prerequisite.
 
+## Weather data and the military base
+
+**Developer explanation, checked October 31, 2026:** [Fredrik distinguishes the military base from the weather-data location](https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966). The military base contains the Striker. Weather data is in the **largest settlement on that same island**, inside a **larger building toward its upper area**. Read the active objective before assuming you are looking for the military base.
+
+Detailed wiring and battery directions in other replies are separate community guidance; they are not the developer's confirmed complete route. This guide does not supply unverified coordinates, battery counts or a guaranteed access sequence. Use the [quest symptom filter](/tools/troubleshooting/?symptom=quest) to distinguish this from the PACE frequency question.
+
+## Docked storage is not the attachment-despawn fix
+
+A [developer reply checked October 31](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343) confirms that Camp Hub trunk access while docked to the Cloud Cruiser is intended, but an interaction bug is being tracked. A large Wasp pad was suggested only as a **possible** workaround. An experimental hotfix was a plan, not a confirmed release.
+
+If a visible docked chest will not interact, do not classify it automatically as the EA 1.0-5 manual-attachment despawn fix. Record the pad, docking action, whether the trunk is visible and the installed version. See [docked Camp Hub interaction](/guides/cloud-cruiser-first-base/#docked-camp-hub-trunk-interaction) or the [storage symptom filter](/tools/troubleshooting/?symptom=storage).
+
+
 ## Portable camp has no power
 
 Fuel and electricity are separate resources. A running hydrogen fuel process does not by itself prove that your camp has a working electrical connection. If camp equipment stops, start with the Camp Hub's displayed power supply rather than making more fuel blindly.

@@ -34,6 +34,13 @@ Cloud Cruiser 是随远征移动的飞行基地。开发者资料介绍了舱内
 
 [反应堆讨论](https://steamcommunity.com/app/1798230/discussions/0/573805072991231149/)既有安装建议，也有尝试失败的反馈。本文不将有争议的顺序写成保证成功的路线。仍发生时，记录装载步骤、当前任务和版本，通过游戏内错误报告工具反馈，分类见[当前核心与储物问题](/zh/guides/opening-problems/#ea-10-5反应堆与营地储物修复)。
 
+## 停靠后 Camp Hub 箱子无法交互
+
+[开发者 devl0f 确认停靠时应当能访问 Camp Hub 箱子](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343)，本页于 2026 年 10 月 31 日核对。无法交互属于正在追踪的 Bug；开发者提出大 Wasp 停机坪这一**可能**的临时办法，并未保证成功。计划提供的实验热修不等于已经发布。
+
+要区分极端地形摆放失败、手动挂接消失，以及忘记营地位置。停靠后箱子仍可见但打不开时，记录这个症状及停机坪和版本，不据此认定内容物已被删除。分类见[箱子症状工具](/zh/tools/troubleshooting/?symptom=storage)。
+
+
 ## 下一步
 通过[模块概述](/zh/cloud-cruiser-modules/)规划功能，通过[Wasp 对照](/zh/guides/wasp-classes-guide/)选择远征飞行器。
 
