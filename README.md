@@ -27,9 +27,13 @@ ATMOSFAR 已进入抢先体验，完整 1.0 正式版仍在后续计划中。[�
 - [Performance troubleshooting](en/performance-troubleshooting.md) · [性能排错](zh/performance-troubleshooting.md) · [Website](https://atmosfarwiki.com/guides/performance-troubleshooting/)
 - [Opening problems and camp power](en/opening-problems.md) · [开局卡点与营地供电](zh/opening-problems.md) · [Website](https://atmosfarwiki.com/guides/opening-problems/)
 
-These notes distinguish official EA 1.0-4 fixes from a community-accepted camp-power answer and unresolved reports. They do not promise a frame rate, recover lost items, or claim a verified Hauler exit route.
+Updated 2026-10-31: these notes distinguish official EA 1.0-4 and EA 1.0-5 fixes, developer replies, community answers and unresolved reports. Opening help includes a folded PACE Scope frequency hint and separate checks for camp storage placement, attachment-related disappearance and a forgotten camp. They do not promise a frame rate, recover lost items, or claim a verified Hauler exit route.
 
-攻略区分官方 EA 1.0-4 修复、社区采纳的营地供电答案与尚未确认的问题；不承诺帧率、丢失物品恢复或未经核实的 Hauler 出洞路线。
+2026-10-31 更新：攻略区分官方 EA 1.0-4 / EA 1.0-5 修复、开发者回复、社区答案与未确认报告。开局帮助包含可折叠的 PACE Scope 频率提示，并分别排查营地箱子摆放、挂接消失和遗忘营地位置；不承诺帧率、丢失物品恢复或未经核实的 Hauler 出洞路线。
+
+- [Platforms & buying FAQ](https://atmosfarwiki.com/release-date/#purchase-faq) · [平台与购买问答](https://atmosfarwiki.com/zh/release-date/#purchase-faq)
+- [Fuel & backpack power](en/fuel-and-power.md) · [燃料与背包补电](zh/fuel-and-power.md)
+- [Cloud Cruiser first base](en/cloud-cruiser-first-base.md) · [Cloud Cruiser 首个基地](zh/cloud-cruiser-first-base.md)
 
 ### English Guides (`./en/`)
 * [Weather & Navigation](en/weather-and-navigation.md) - Buzzing warnings, weather decisions and return landmarks.

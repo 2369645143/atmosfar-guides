@@ -5,7 +5,7 @@ category: "Survival Systems"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-30"
+updatedDate: "2026-10-31"
 icon: "ri-flashlight-line"
 lang: "en"
 ---
@@ -28,7 +28,9 @@ This is a practical system overview based on developer blogs, not a list of fina
 
 ## Backpack or hand tool out of power?
 
-The backpack carries a battery used by your tools. Developer examples include charging in sunlight, near bioluminescent plants and via the Utility Wasp’s charge cable. Check the current build for the available connection or charging prompt.
+The backpack carries the battery used by your tools. In an [accepted developer answer by devl0f [Apog]](https://steamcommunity.com/app/1798230/discussions/0/573805072991183493/#c573805072991197446), checked October 31, 2026, the developer confirms daytime recharge and a power boost while piloting or sitting in the Wasp. Check the battery readout before and after a safe daytime pause.
+
+This does not promise overnight charging or a fixed charge rate; a later player reported no charge from sitting overnight. Older alpha descriptions of other charging methods do not by themselves verify that a cable or glowing plant is a universal current-build solution.
 
 A useful preparation routine is to charge tools before salvage work, bring repair materials and leave enough reserve for the return. This routine is editorial advice, not a fixed battery-capacity requirement.
 
@@ -62,6 +64,12 @@ Fuel storage also needs cooling power in this design. A reactor outage can there
 The order above is an editorial diagnostic aid. It is not a claim that every failure has the same cause.
 
 [Open your expedition checklist](/guides/starter-survival-checklist/) · [Plan co-op hosting](/coop/)
+
+## EA 1.0-5 resource and chest checks
+
+The [official EA 1.0-5 notes](https://steamcommunity.com/app/1798230/allnews/), checked October 31, lower Wasp fuel use and stunner power use without numerical rates. Do not reuse an older build's observed drain as a fixed current value.
+
+If chests do not appear with the camp, distinguish extreme-terrain placement failure, manual-attachment despawn and a forgotten camp location. See the [camp chest symptom table](/guides/opening-problems/#camp-chests-disappeared-distinguish-the-cause) for developer and community sources and the Camp Hub check. The developer's terrain explanation and a player's Hub recovery observation are separate evidence, not a guarantee that items will return.
 
 ## Version and sources
 

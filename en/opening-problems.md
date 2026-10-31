@@ -1,15 +1,44 @@
 ---
 title: "ATMOSFAR Opening Problems: Camp Power & Tutorial Help"
-description: "Check portable camp power, tutorial respawns and research-drive recovery in ATMOSFAR, with source-backed steps and limits for unresolved problems."
+description: "Check ATMOSFAR EA 1.0-5 camp and reactor fixes, missing chests and PACE Scope frequency hints, with official and community sources kept distinct."
 category: "Starter Troubleshooting"
 badge: "EARLY ACCESS · SOURCE CHECK"
 readingTime: "4 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-10-30"
-sourceNote: "Checked October 30, 2026. Official EA 1.0-4 fixes and a community accepted answer are identified separately below; this guide is not a release-build playtest."
+updatedDate: "2026-10-31"
+sourceNote: "EA 1.0-5 and new community replies checked October 31, 2026. Earlier EA 1.0-4 checks retain their October 30 scope. Official and community evidence are identified separately; this is not a release-build playtest."
 icon: "ri-map-pin-line"
 lang: "en"
 ---
+
+## EA 1.0-5: reactor and camp storage fixes
+
+The [official EA 1.0-5 announcement](https://steamcommunity.com/app/1798230/allnews/), published October 30 and checked October 31, lists reactor-core loss after detaching a Hauler magnet, a core despawning in the cargo lift, and camp Hub/storage despawning during manual attachment to a Wasp inside the Cloud Cruiser. It also lists specific Pearl Island and Mawknest terrain traps. These are described cases, not a claim that every missing object or blocked objective is fixed.
+
+Record the exact action and version if a problem continues after updating. The notes do not promise to restore previously lost cores or stored items. A [reactor-loading discussion](https://steamcommunity.com/app/1798230/discussions/0/573805072991231149/) contains a proposed route and reports of failed attempts, so it does not establish a guaranteed installation or recovery method.
+
+## Camp chests disappeared: distinguish the cause
+
+| What happened? | Evidence and first check | What remains uncertain |
+| --- | --- | --- |
+| Chests/buildables failed to appear after redeploying on extreme terrain | Developer [devl0f [Apog] explains placement failure and a missing warning](https://steamcommunity.com/app/1798230/discussions/0/573805072991192623/#c573805072991198158). Compare the ground with a flatter deployment area | This is not proof that every chest-disappearance case has the same cause |
+| You need to locate a chest after that placement problem | A [community reply reports finding chests in the Camp Hub and placing them again](https://steamcommunity.com/app/1798230/discussions/0/573805072991192623/#c573805072991194700). Inspect the Hub before rebuilding | This is a player's recovery observation, not guaranteed restoration of all contents |
+| Hub/storage vanished while manually attaching it to a Wasp inside the Cloud Cruiser | This specific despawn path appears in the official EA 1.0-5 fix list | Updating does not promise retroactive recovery; record attachment action and version if repeated |
+| You flew away and forgot where the entire camp was left | This is the separate [forgotten-camp question below](#lost-mobile-camp-is-there-a-confirmed-retrieval-method) | Neither a terrain-placement explanation nor the attachment fix confirms a universal recall feature |
+
+These checks distinguish placement, attachment and location problems. If a chest is still absent, report the terrain, Hub contents, action before disappearance and exact version. Do not delete the save to test a suggested recovery.
+
+## PACE Scope: which target and frequency?
+
+First read the target name in your active objective. The [PACE Scope frequency discussion](https://steamcommunity.com/app/1798230/discussions/0/573805072991115682/) mixes more than one target; using a number for the PACE Antenna is not the same as tuning for the Security Base.
+
+<details>
+<summary>Show the community frequency hint (spoiler)</summary>
+<p><strong>71.2</strong> is reported for the <strong>Security Base / PACE Scope</strong> target, with multiple players confirming it in the thread checked October 31, 2026. The earlier <strong>52.8</strong> reply concerns the <strong>PACE Antenna</strong>, a different target.</p>
+<p>This is a dated community answer, not developer confirmation or our own playtest. Check the active objective and available target names first. The thread does not establish that a frequency is universal across all saves and patches, or a precise log location.</p>
+</details>
+
+If tuning does not advance the objective, record its exact text, target name and installed version rather than assuming that repeating a number completes every prerequisite.
 
 ## Portable camp has no power
 
@@ -52,4 +81,4 @@ Follow the current objective and input labels. Old Demo routes cannot establish 
 
 ## Sources and scope
 
-Official EA 1.0-4 notes and the three Steam threads linked above were checked October 30, 2026. The camp power instructions are attributed community guidance; the unresolved questions are not advertised as solved.
+EA 1.0-5 notes, the PACE thread, camp-placement developer reply and reactor discussion were checked October 31, 2026. Earlier EA 1.0-4 and launch-day power/camp/cave checks were made October 30. The power and frequency instructions are attributed community guidance; unresolved questions are not advertised as solved.

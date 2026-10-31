@@ -5,7 +5,7 @@ category: "Vehicles"
 badge: "SOURCE CHECK · 2026-10-28"
 readingTime: "3 min read"
 publishDate: "2026-10-28"
-updatedDate: "2026-10-28"
+updatedDate: "2026-10-31"
 icon: "ri-home-gear-line"
 lang: "en"
 ---
@@ -26,6 +26,12 @@ The following is an editorial workflow to apply once your current objectives giv
 5. In co-op, agree who handles travel and who checks supplies. Regroup before moving away from teammates.
 
 If a work area does not function, check its visible requirements and current objective first. Compare your installed patch with the [official updates](https://steamcommunity.com/app/1798230/announcements/) before rebuilding or discarding progress.
+
+## Reactor core missing during loading?
+
+The [EA 1.0-5 notes](https://steamcommunity.com/app/1798230/allnews/), checked October 31, list fixes for core loss after Hauler magnet detachment and a core despawning in the cargo lift. Compare the precise action and your version before assuming every missing-core case has been solved. The patch does not promise restoration of already lost cores.
+
+The [reactor discussion](https://steamcommunity.com/app/1798230/discussions/0/573805072991231149/) includes both an installation suggestion and reports of failed attempts. This guide does not turn that disputed sequence into a guaranteed route. If the problem continues, record the loading step, current objective and version for the in-game bug reporter. See [the current loss/storage distinctions](/guides/opening-problems/#ea-10-5-reactor-and-camp-storage-fixes).
 
 ## Next steps
 Use the [module overview](/cloud-cruiser-modules/) to plan functions and the [Wasp comparison](/guides/wasp-classes-guide/) to select expedition craft.

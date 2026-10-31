@@ -1,11 +1,12 @@
 ---
 title: "ATMOSFAR Cloud Cruiser 指南：初次移动基地准备"
+seoTitle: "ATMOSFAR Cloud Cruiser 指南：反应堆核心与首次基地准备 | ATMOSFAR Wiki"
 description: "规划首个 ATMOSFAR Cloud Cruiser：安排舱内工作、Wasp 返回与队员分工，不预设未经核实的解锁步骤。"
 category: "Vehicles"
 badge: "资料核验 · 2026-10-28"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-28"
-updatedDate: "2026-10-28"
+updatedDate: "2026-10-31"
 icon: "ri-home-gear-line"
 lang: "zh"
 ---
@@ -26,6 +27,12 @@ Cloud Cruiser 是随远征移动的飞行基地。开发者资料介绍了舱内
 5. 合作时约定谁负责移动、谁检查补给；舰船离开前先集合队员。
 
 某处工作区不能使用时，先检查它显示的要求与当前目标。重建或放弃进度前，将自己安装的补丁与[官方更新](https://steamcommunity.com/app/1798230/announcements/)对照。
+
+## 装载时反应堆核心不见了？
+
+10 月 31 日核对的[EA 1.0-5 说明](https://steamcommunity.com/app/1798230/allnews/)列出 Hauler 磁吸分离后核心丢失、核心在货物升降机内消失的修复。先对照具体动作和版本，不要认定所有核心丢失都已解决；补丁也没有承诺找回此前丢失的核心。
+
+[反应堆讨论](https://steamcommunity.com/app/1798230/discussions/0/573805072991231149/)既有安装建议，也有尝试失败的反馈。本文不将有争议的顺序写成保证成功的路线。仍发生时，记录装载步骤、当前任务和版本，通过游戏内错误报告工具反馈，分类见[当前核心与储物问题](/zh/guides/opening-problems/#ea-10-5反应堆与营地储物修复)。
 
 ## 下一步
 通过[模块概述](/zh/cloud-cruiser-modules/)规划功能，通过[Wasp 对照](/zh/guides/wasp-classes-guide/)选择远征飞行器。

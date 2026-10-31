@@ -1,19 +1,35 @@
 ---
 title: "ATMOSFAR Performance Guide: Low FPS, DLAA & Loading Help"
-description: "Check ATMOSFAR Early Access performance issues, the EA 1.0-4 DLAA change and what to report when low FPS or loading problems persist."
+description: "Check ATMOSFAR EA 1.0-5 control and connection changes, earlier DLAA notes, PC requirements and what to report when FPS or loading issues persist."
 category: "Troubleshooting"
-badge: "EARLY ACCESS · EA 1.0-4"
+badge: "EARLY ACCESS · EA 1.0-5 / 1.0-4"
 readingTime: "4 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-10-30"
-sourceNote: "Checked against Apog Labs' EA 1.0-4 notes on October 30, 2026. This is source-based troubleshooting, not a device benchmark or a guarantee of a fix."
+updatedDate: "2026-10-31"
+sourceNote: "EA 1.0-5 notes checked October 31, 2026; earlier EA 1.0-4 notes retain their October 30 scope. This is source-based troubleshooting, not a device benchmark or guarantee of a fix."
 icon: "ri-tools-line"
 lang: "en"
 ---
 
 ## First check your installed version
 
-ATMOSFAR is available in **Early Access**. Before changing settings, record the version shown by your game and read the [official Steam update notes](https://steamcommunity.com/app/1798230/allnews/). Finish any Steam update before comparing the issue with an older report. The following patch details refer specifically to **EA 1.0-4**, checked October 30, 2026; later updates may change them.
+ATMOSFAR is available in **Early Access**. Before changing settings, record the version shown by your game and read the [official Steam update notes](https://steamcommunity.com/app/1798230/allnews/). Finish any Steam update before comparing the issue with an older report. This page separates **EA 1.0-5**, checked October 31, 2026, from the earlier **EA 1.0-4** notes checked October 30; later updates may change either diagnosis.
+
+## EA 1.0-5: controls, resource use and connection feedback
+
+Checked **October 31, 2026**: the [official EA 1.0-5 announcement](https://steamcommunity.com/app/1798230/allnews/), published October 30, lists these changes. Compare your installed version before applying an older diagnosis.
+
+| Symptom or change | What EA 1.0-5 says | Limit of that claim |
+| --- | --- | --- |
+| Wasp fuel or stunner battery runs out quickly | Wasp fuel consumption and stunner power use were reduced; PACE drones remain stunned longer | No numerical rate or guaranteed expedition range was supplied |
+| Mouse roll feels too fast | Mouse roll rate was lowered | This does not establish a fix for every binding or controller issue |
+| Movement/collision while seated | Specific seated movement and collision problems appear in the fix list | It does not confirm every movement block is resolved |
+| Co-op connection fails | A connection-failure error message was added | A clearer error is not a promise that all connection failures are fixed |
+| Reactor core or camp storage disappears | Specific loss/despawn cases are listed as fixed | See [opening-problem distinctions](/guides/opening-problems/#ea-10-5-reactor-and-camp-storage-fixes); already missing items are not promised back |
+
+EA 1.0-5 is not described as a universal low-FPS cure. A further larger update or experimental build was announced as a plan; that statement alone does not show it has shipped.
+
+The DLAA, bug-report panel, tutorial respawn and research-drive notes below are **earlier EA 1.0-4 changes**, originally checked October 30. They are retained with their original scope rather than relabeled as new EA 1.0-5 fixes.
 
 ## Low FPS or missing DLAA option
 
