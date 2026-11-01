@@ -1,0 +1,676 @@
+[
+  {
+    "id": "research-power",
+    "symptom": "power",
+    "versions": [
+      "ea-1.0-5"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "guidance",
+    "en": {
+      "title": "Research desk stops or seems inactive",
+      "advice": "Research consumes camp power over time. Watch the Hub panel during research; check supply rather than assuming starting research is a one-off power cost.",
+      "limits": "The developer describes Utility Wasp, fuel generator and researched solar panels as supply options. Research UX improvements are planned, not confirmed released; no fixed power rate or default key is established."
+    },
+    "zh": {
+      "title": "研究台停止或看起来没反应",
+      "advice": "研究会随时间消耗营地电力。研究时查看 Hub 面板并检查供应，不要把启动研究当作一次性耗电。",
+      "limits": "开发者列举 Utility Wasp、燃料发电机及研究后太阳能板等供电方式；研究 UX 改进仍是计划，未确认发布，本文没有固定功率或默认按键。"
+    },
+    "path": "/guides/crafting-and-blueprints/#research-desk-power-over-time",
+    "evidence": [
+      {
+        "kind": "developer",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991219592/#c573805072991220489",
+        "en": "devl0f confirms ongoing power use and recommends watching the Hub panel.",
+        "zh": "devl0f 确认研究持续耗电，并建议观察 Hub 面板。"
+      }
+    ]
+  },
+  {
+    "id": "weather-data",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-5"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "guidance",
+    "en": {
+      "title": "Weather data: settlement or military base?",
+      "advice": "The developer places weather data in the largest settlement on the same island, inside a larger upper building. The military base with the Striker is a different target.",
+      "limits": "Detailed wiring/battery directions are separate player guidance, not developer-confirmed steps. No coordinates or guaranteed route are supplied."
+    },
+    "zh": {
+      "title": "天气数据：聚落还是军事基地？",
+      "advice": "开发者说明天气数据位于同一岛上最大的聚落、上部的一座较大建筑里；有 Striker 的军事基地是另一个目标。",
+      "limits": "具体接线和电池路线属于独立玩家建议，不是开发者确认步骤；本文不提供坐标或保证通关的路线。"
+    },
+    "path": "/guides/opening-problems/#weather-data-and-the-military-base",
+    "evidence": [
+      {
+        "kind": "developer",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966",
+        "en": "Fredrik distinguishes the two targets.",
+        "zh": "Fredrik 区分了两个不同目标。"
+      },
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/",
+        "en": "Other replies discuss wiring and batteries; their full route is not independently verified here.",
+        "zh": "其他回帖讨论接线和电池，完整路线尚未在本站独立核实。"
+      }
+    ]
+  },
+  {
+    "id": "docked-storage",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-5"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "confirmed",
+    "en": {
+      "title": "Camp Hub trunk while docked: EA 1.0-5 history",
+      "advice": "Historical EA 1.0-5 tracking: docked Camp Hub trunk access was intended, but an interaction bug was being tracked.",
+      "limits": "The possible large-pad workaround and planned hotfix describe the earlier reply. See the separate EA 1.0-6 VENU-14674 entry for the later official fix; no restoration of lost items is promised."
+    },
+    "zh": {
+      "title": "停靠箱子：EA 1.0-5 历史状态",
+      "advice": "EA 1.0-5 历史追踪：停靠时应能访问 Camp Hub 箱子，但当时正追踪交互 Bug。",
+      "limits": "大停机坪临时办法和热修计划属于早期回帖；后续官方修复见独立 EA 1.0-6 VENU-14674 条目，不承诺恢复丢失物品。"
+    },
+    "path": "/guides/cloud-cruiser-first-base/#docked-camp-hub-trunk-interaction",
+    "evidence": [
+      {
+        "kind": "developer",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343",
+        "en": "devl0f confirms intended access and tracked interaction trouble; possible large-pad workaround only.",
+        "zh": "devl0f 确认应可访问且正追踪交互问题；大停机坪只是可能绕行。"
+      }
+    ]
+  },
+  {
+    "id": "storage-terrain",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-5"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "confirmed",
+    "en": {
+      "title": "Camp chests do not appear on extreme terrain",
+      "advice": "Distinguish a placement failure after redeploying. Compare with flatter terrain and inspect the Hub before rebuilding.",
+      "limits": "Developer explanation and a player recovery observation are separate. Neither guarantees that all missing chests or contents will return."
+    },
+    "zh": {
+      "title": "极端地形部署后营地箱子未出现",
+      "advice": "先辨别是否重新部署时摆放失败。可对照更平坦地形，重造前查看 Hub。",
+      "limits": "开发者的地形解释和玩家找回观察是不同证据；都不保证所有箱子或内容物恢复。"
+    },
+    "path": "/guides/opening-problems/#camp-chests-disappeared-distinguish-the-cause",
+    "evidence": [
+      {
+        "kind": "developer",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991192623/#c573805072991198158",
+        "en": "Buildables can fail placement on extreme terrain; warning UX was missing.",
+        "zh": "极端地形可能导致摆放失败，且缺少警告提示。"
+      },
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991192623/#c573805072991194700",
+        "en": "A player found chests in the Hub and placed them again.",
+        "zh": "一位玩家表示在 Hub 中找到箱子并重新放置。"
+      }
+    ]
+  },
+  {
+    "id": "storage-attachment",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-5"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "fixed",
+    "en": {
+      "title": "Hub/storage disappears during manual Wasp attachment",
+      "advice": "EA 1.0-5 lists this specific despawn path inside the Cloud Cruiser as fixed. Check the installed version and exact preceding action.",
+      "limits": "The note does not promise restoration of already lost items, nor fix every docked interaction or terrain-placement problem."
+    },
+    "zh": {
+      "title": "手动挂接 Wasp 时 Hub 或储物消失",
+      "advice": "EA 1.0-5 将 Cloud Cruiser 内这一特定消失路径列为修复；核对已安装版本和发生前动作。",
+      "limits": "公告未承诺找回旧物品，也不能覆盖所有停靠交互或地形摆放问题。"
+    },
+    "path": "/guides/opening-problems/#ea-10-5-reactor-and-camp-storage-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://steamcommunity.com/app/1798230/allnews/",
+        "en": "EA 1.0-5 lists manual-attachment despawn among specific fixes.",
+        "zh": "EA 1.0-5 将手动挂接导致消失列为特定修复。"
+      }
+    ]
+  },
+  {
+    "id": "camp-location",
+    "symptom": "storage",
+    "versions": [],
+    "checkedAt": "2026-10-31",
+    "status": "unverified",
+    "en": {
+      "title": "Forgot where the entire camp was left",
+      "advice": "Record the last island/landmark, whether the camp was deployed, and the relocation action before seeking help.",
+      "limits": "A launch-day compass suggestion was contradicted by the question author. No universal recall or restoration method is confirmed; the thread does not identify an exact patch."
+    },
+    "zh": {
+      "title": "忘记整个营地放在哪里",
+      "advice": "求助时记录最后岛屿或地标、营地是否部署及最近搬营动作。",
+      "limits": "首发原帖的罗盘建议被提问者否定；没有确认通用召回或找回方法，原帖也未明确补丁版本。"
+    },
+    "path": "/guides/opening-problems/#lost-mobile-camp-is-there-a-confirmed-retrieval-method",
+    "evidence": [
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991121075/",
+        "en": "Only the Cloud Cruiser marker was visible to the question author.",
+        "zh": "提问者表示只看到 Cloud Cruiser 标记。"
+      }
+    ]
+  },
+  {
+    "id": "pace-frequency",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-5"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "community",
+    "en": {
+      "title": "PACE Scope and Security Base frequency",
+      "advice": "First read the target name; open the detailed guide to reveal the spoiler-controlled community hint.",
+      "limits": "Several players confirm the Security Base hint, while the PACE Antenna has a different number. This is not developer/device verification or a guarantee for every save and patch."
+    },
+    "zh": {
+      "title": "PACE Scope 与 Security Base 频率",
+      "advice": "先看目标名，在详情攻略中展开含剧透的社区提示。",
+      "limits": "多位玩家确认 Security Base 提示，PACE Antenna 属另一频率；这不是开发者或实机验证，也不保证所有存档和版本通用。"
+    },
+    "path": "/guides/opening-problems/#pace-scope-which-target-and-frequency",
+    "evidence": [
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991115682/",
+        "en": "Multiple player replies distinguish the Security Base and PACE Antenna.",
+        "zh": "多条玩家回复区分 Security Base 与 PACE Antenna。"
+      }
+    ]
+  },
+  {
+    "id": "research-drive",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-4"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "fixed",
+    "en": {
+      "title": "Research drive missing after recovery",
+      "advice": "EA 1.0-4 lists VENU-14419 for drives being lost upon recovery. Compare the action and the original patch note.",
+      "limits": "This historical note does not promise retroactive recovery or establish every later-build case is solved."
+    },
+    "zh": {
+      "title": "恢复物品后研究盘丢失",
+      "advice": "EA 1.0-4 的 VENU-14419 涉及恢复时研究盘可能丢失；对照具体动作与原补丁。",
+      "limits": "历史说明不承诺追溯找回，也不能证明所有后续版本情况都已解决。"
+    },
+    "path": "/guides/opening-problems/#research-drive-missing-after-recovery",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://steamcommunity.com/app/1798230/allnews/",
+        "en": "EA 1.0-4 research-drive recovery fix, not a future-version blanket guarantee.",
+        "zh": "EA 1.0-4 的研究盘恢复修复，不是未来版本的总括保证。"
+      }
+    ]
+  },
+  {
+    "id": "dlaa",
+    "symptom": "performance",
+    "versions": [
+      "ea-1.0-4"
+    ],
+    "checkedAt": "2026-10-31",
+    "status": "fixed",
+    "en": {
+      "title": "DLAA option missing or low FPS",
+      "advice": "EA 1.0-4 temporarily disabled DLAA due to its inefficient rendering effect. Read that version-specific note before reinstalling.",
+      "limits": "It does not establish every performance problem is fixed or that DLSS/FSR/frame generation is broken. No benchmark or FPS guarantee is provided."
+    },
+    "zh": {
+      "title": "DLAA 选项缺失或低帧率",
+      "advice": "EA 1.0-4 因渲染低效暂时禁用 DLAA；重装前先核对原版本说明。",
+      "limits": "不代表所有性能问题已修复，也不证明 DLSS、FSR 或帧生成损坏；没有实测帧率保证。"
+    },
+    "path": "/guides/performance-troubleshooting/#low-fps-or-missing-dlaa-option",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://steamcommunity.com/app/1798230/allnews/",
+        "en": "EA 1.0-4 VENU-14395 temporarily disables DLAA.",
+        "zh": "EA 1.0-4 的 VENU-14395 暂时禁用 DLAA。"
+      }
+    ]
+  },
+  {
+    "id": "loading",
+    "symptom": "performance",
+    "versions": [],
+    "checkedAt": "2026-10-31",
+    "status": "unverified",
+    "en": {
+      "title": "Loading hangs before or after the menu",
+      "advice": "Record the version, solo/co-op context and exact loading stage. The guide includes Steam file verification as a generic installation check.",
+      "limits": "No game-specific universal fix is verified. Do not delete the whole Saved folder or claim file checks restore missing items. Exact patch support is not established."
+    },
+    "zh": {
+      "title": "菜单前后一直加载",
+      "advice": "记录版本、单人或合作情况及卡住阶段；详情提供 Steam 通用文件验证方法。",
+      "limits": "尚无游戏专属通用解法。不要删除整个 Saved 文件夹，也不要声称文件检查可恢复旧物品；未确认精确适用补丁。"
+    },
+    "path": "/guides/performance-troubleshooting/#loading-indefinitely-or-cannot-reach-the-game",
+    "evidence": [
+      {
+        "kind": "editorial",
+        "url": "https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB",
+        "en": "Generic Steam file integrity check, not a confirmed ATMOSFAR fix.",
+        "zh": "Steam 通用文件完整性检查，不是 ATMOSFAR 已确认专属解法。"
+      }
+    ]
+  },
+  {
+    "id": "docked-storage-ea106",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14674: docked storage interaction",
+      "advice": "EA 1.0-6 lists a fix for docked storage interaction. This replaces the earlier planned status for this specific case.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14674：停靠储物交互",
+      "advice": "EA 1.0-6 将停靠储物交互列为修复；这一特定问题已由早期计划更新为官方列明修复。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-6-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-14674: docked storage interaction",
+        "zh": "VENU-14674：停靠储物交互"
+      }
+    ]
+  },
+  {
+    "id": "pace-drive-early-desk",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14595: PACE drive after an early research desk",
+      "advice": "EA 1.0-6 lists the PACE research-drive interaction failure after building the desk early. Distinguish lost-drive recovery.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14595：提前造研究台后的 PACE 研究盘",
+      "advice": "EA 1.0-6 修复提前造研究台后 PACE 研究盘不能交互；与恢复时丢盘分开。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/crafting-and-blueprints/#ea-1-0-6-research-and-crafting",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-14595: PACE drive after an early research desk",
+        "zh": "VENU-14595：提前造研究台后的 PACE 研究盘"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-frame-generation",
+    "symptom": "performance",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14539: NVIDIA frame generation",
+      "advice": "EA 1.0-6 lists a fix for NVIDIA frame generation not working correctly. It is separate from the earlier DLAA change and does not establish a universal FPS improvement.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14539：NVIDIA 帧生成",
+      "advice": "EA 1.0-6 列出 NVIDIA 帧生成特定修复，与旧 DLAA 变化不同；不代表全部帧率问题解决。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/performance-troubleshooting/#ea-1-0-6-nvidia-frame-generation",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-14539: NVIDIA frame generation",
+        "zh": "VENU-14539：NVIDIA 帧生成"
+      }
+    ]
+  },
+  {
+    "id": "generator-outage-refuel",
+    "symptom": "power",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14211: generator will not restart after refuelling",
+      "advice": "EA 1.0-6 lists a fix for a generator failing to restart after a power outage when refuelled from zero fuel.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14211：断电后补给燃料仍不能启动",
+      "advice": "EA 1.0-6 列出断电后发电机燃料耗尽、补给燃料仍不能启动的修复。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/fuel-and-power/#ea-1-0-6-generator",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-14211: generator will not restart after refuelling",
+        "zh": "VENU-14211：断电后补给燃料仍不能启动"
+      }
+    ]
+  },
+  {
+    "id": "striker-hangar-door",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-13528: Fort Hannigan Striker hangar door",
+      "advice": "EA 1.0-6 lists a fix for the malfunctioning Fort Hannigan Striker hangar door, where a fuse is located. Community fuse locations remain separate guidance.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-13528：Fort Hannigan Striker 机库门",
+      "advice": "EA 1.0-6 列出 Fort Hannigan 内有保险丝的 Striker 机库门修复；社区位置提示单列。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-6-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-13528: Fort Hannigan Striker hangar door",
+        "zh": "VENU-13528：Fort Hannigan Striker 机库门"
+      }
+    ]
+  },
+  {
+    "id": "reactor-core-inventory",
+    "symptom": "power",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14688: installed core remains in inventory",
+      "advice": "EA 1.0-6 lists a reactor core not correctly removed from inventory after installation, distinct from earlier core loss.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14688：安装后核芯未正确移出背包",
+      "advice": "EA 1.0-6 列出反应堆安装后核芯未正确移出背包，与此前核芯丢失不同。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-6-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-14688: installed core remains in inventory",
+        "zh": "VENU-14688：安装后核芯未正确移出背包"
+      }
+    ]
+  },
+  {
+    "id": "cruiser-crafting-inventory",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-6"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "guidance",
+    "en": {
+      "title": "VENU-14560: crafting uses Cruiser inventory",
+      "advice": "EA 1.0-6 lists Cloud Cruiser crafting using the Cruiser inventory.",
+      "limits": "This is an added crafting capability, not an item-recovery fix. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14560：制作调用母舰库存",
+      "advice": "EA 1.0-6 列出母舰制作可以调用母舰库存。",
+      "limits": "这是新增制作能力，不是找回物品的修复；不自动推导其他版本。"
+    },
+    "path": "/guides/crafting-and-blueprints/#ea-1-0-6-research-and-crafting",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876736",
+        "en": "VENU-14560: crafting uses Cruiser inventory",
+        "zh": "VENU-14560：制作调用母舰库存"
+      }
+    ]
+  },
+  {
+    "id": "crafting-chest-ui",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-7"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14224: crafting UI omits chest resources",
+      "advice": "EA 1.0-7 lists chest resources missing from the crafting resource UI; do not equate a display problem with deleted contents.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14224：制作 UI 未显示箱内资源",
+      "advice": "EA 1.0-7 列出制作资源 UI 未显示箱内资源；显示问题不等于内容被删除。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-7-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876789",
+        "en": "VENU-14224: crafting UI omits chest resources",
+        "zh": "VENU-14224：制作 UI 未显示箱内资源"
+      }
+    ]
+  },
+  {
+    "id": "landing-pad-replacement",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-7"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14650: cannot replace a dismantled landing pad",
+      "advice": "EA 1.0-7 lists collision checks wrongly blocking replacement after dismantling a landing pad.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14650：拆停机坪后不能重新摆放",
+      "advice": "EA 1.0-7 列出拆停机坪后碰撞误判、无法重新摆放的修复。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-7-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876789",
+        "en": "VENU-14650: cannot replace a dismantled landing pad",
+        "zh": "VENU-14650：拆停机坪后不能重新摆放"
+      }
+    ]
+  },
+  {
+    "id": "fort-progress-old-save",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-7"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14787: Fort Hannigan progress and frequency",
+      "advice": "EA 1.0-7 lists regressed objectives and an unfindable frequency signal when loading a save from before EA 1.0-6.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14787：Fort Hannigan 进度与频率信号",
+      "advice": "EA 1.0-7 列出载入 1.0-6 以前存档时 Fort Hannigan 目标进度回退、频率信号找不到的修复。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-7-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876789",
+        "en": "VENU-14787: Fort Hannigan progress and frequency",
+        "zh": "VENU-14787：Fort Hannigan 进度与频率信号"
+      }
+    ]
+  },
+  {
+    "id": "large-hangar-save-load",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-7"
+    ],
+    "checkedAt": "2026-11-01",
+    "status": "fixed",
+    "en": {
+      "title": "VENU-14794: large hangar door after save/load",
+      "advice": "EA 1.0-7 lists unstable large hangar door behaviour after saving and loading, separate from the EA 1.0-6 Striker door case.",
+      "limits": "This is a specific patch statement, not an all-save guarantee or restoration of previously lost items. Other versions are not inferred."
+    },
+    "zh": {
+      "title": "VENU-14794：保存加载后的大型机库门",
+      "advice": "EA 1.0-7 列出保存加载后大型机库门不稳定；与 1.0-6 Striker 门问题不同。",
+      "limits": "这是特定补丁说明，不保证所有存档通用或恢复已丢物品；不自动推导其他版本。"
+    },
+    "path": "/guides/opening-problems/#ea-1-0-7-fixes",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876789",
+        "en": "VENU-14794: large hangar door after save/load",
+        "zh": "VENU-14794：保存加载后的大型机库门"
+      }
+    ]
+  },
+  {
+    "id": "fort-keycard",
+    "symptom": "quest",
+    "versions": [],
+    "checkedAt": "2026-11-01",
+    "status": "community",
+    "en": {
+      "title": "Fort Hannigan keycard room: author-confirmed community hint",
+      "advice": "Open the detailed spoiler for SugaryMedal’s room hint and Schpoun’s reply that they found it.",
+      "limits": "No exact patch is established; question-author confirmation is not developer or playtest verification."
+    },
+    "zh": {
+      "title": "Fort Hannigan 门禁卡：提问者确认的社区提示",
+      "advice": "详情剧透中有 SugaryMedal 的房间提示和 Schpoun 找到后的回复。",
+      "limits": "未明确补丁；提问者确认不等于开发者或实机验证。"
+    },
+    "path": "/guides/opening-problems/#fort-hannigan-keycard",
+    "evidence": [
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805391546294705/",
+        "en": "Fort Hannigan keycard room: author-confirmed community hint",
+        "zh": "Fort Hannigan 门禁卡：提问者确认的社区提示"
+      }
+    ]
+  },
+  {
+    "id": "fort-fuses",
+    "symptom": "quest",
+    "versions": [],
+    "checkedAt": "2026-11-01",
+    "status": "community",
+    "en": {
+      "title": "Fort Hannigan: four-fuse checklist and power prerequisite",
+      "advice": "Open the spoiler checklist: one already inserted and three community-reported locations, with missing/lost-fuse reports kept distinct.",
+      "limits": "Reply #13 is community guidance. Replies #6 and #8 report unresolved missing/lost fuses; no coordinates or universal recovery method are verified. Exact patch unspecified."
+    },
+    "zh": {
+      "title": "Fort Hannigan：四枚保险丝与供电前置",
+      "advice": "展开剧透清单：一枚已插好、三处社区位置及供电前置，同时保留机库缺失与丢失反馈。",
+      "limits": "#13 是社区提示；#6、#8 报告未解决的缺失或丢失；无核实坐标或通用恢复方法，精确补丁未明确。"
+    },
+    "path": "/guides/opening-problems/#fort-hannigan-fuses",
+    "evidence": [
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805391546180015/",
+        "en": "Fort Hannigan: four-fuse checklist and power prerequisite",
+        "zh": "Fort Hannigan：四枚保险丝与供电前置"
+      }
+    ]
+  },
+  {
+    "id": "zero-thrust",
+    "symptom": "power",
+    "versions": [],
+    "checkedAt": "2026-11-01",
+    "status": "unverified",
+    "en": {
+      "title": "0 MN after modifications: no confirmed solution",
+      "advice": "The author reports adding engines and reactors did not help. A reload suggestion concerns another player’s different balloon fault; no author-confirmed zero-thrust fix.",
+      "limits": "No exact patch or universal solution is established. Do not label engines, reactors or reload as solved."
+    },
+    "zh": {
+      "title": "改装后 0 MN：未确认解法",
+      "advice": "原作者反馈加发动机和反应堆无效；重载建议来自另一玩家不同气球故障，没有原作者确认解决零推力。",
+      "limits": "未明确精确补丁或通用解法，不能把加引擎、反应堆或重载标为已解决。"
+    },
+    "path": "/guides/cloud-cruiser-first-base/#zero-thrust-unconfirmed",
+    "evidence": [
+      {
+        "kind": "community",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805391546288238/",
+        "en": "0 MN after modifications: no confirmed solution",
+        "zh": "改装后 0 MN：未确认解法"
+      }
+    ]
+  }
+]

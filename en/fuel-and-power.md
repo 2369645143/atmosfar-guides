@@ -5,10 +5,14 @@ category: "Survival Systems"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-01"
 icon: "ri-flashlight-line"
 lang: "en"
 ---
+
+<h2 id="ea-1-0-6-generator">EA 1.0-6: generator restart after an outage</h2>
+
+Checked **2026-11-01**, [EA 1.0-6 VENU-14211](https://store.steampowered.com/news/app/1798230/view/712290761518876736) lists the case where a generator cannot restart after a power outage when refuelled from zero fuel. This is a specific fix, separate from camp wiring and research demand; it does not establish a new fuel rate or a cure for every outage. The same patch's **VENU-14688** concerns a core not correctly removed from inventory after reactor installation, rather than a missing-core restoration. [EA 1.0-6 power filter](/tools/troubleshooting/?v=ea-1.0-6&symptom=power).
 
 ## Fuel and electricity do different jobs
 

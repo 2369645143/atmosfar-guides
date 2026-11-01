@@ -1,15 +1,70 @@
 ---
 title: "ATMOSFAR Opening Problems: Camp Power & Tutorial Help"
-description: "Check ATMOSFAR EA 1.0-5 camp and reactor fixes, missing chests and PACE Scope frequency hints, with official and community sources kept distinct."
+description: "Check ATMOSFAR EA 1.0-6 and 1.0-7 fixes, Fort Hannigan keycard and fuse hints, with official patches and community answers kept distinct."
 category: "Starter Troubleshooting"
 badge: "EARLY ACCESS · SOURCE CHECK"
-readingTime: "4 min read"
+readingTime: "8 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-10-31"
-sourceNote: "EA 1.0-5 and new community replies checked October 31, 2026. Earlier EA 1.0-4 checks retain their October 30 scope. Official and community evidence are identified separately; this is not a release-build playtest."
+updatedDate: "2026-11-01"
+sourceNote: "EA 1.0-6 / 1.0-7 and community additions checked 2026-11-01. EA 1.0-5 and new community replies checked October 31, 2026. Earlier EA 1.0-4 checks retain their October 30 scope. Official and community evidence are identified separately; this is not a release-build playtest."
 icon: "ri-map-pin-line"
 lang: "en"
 ---
+
+<h2 id="ea-1-0-6-fixes">EA 1.0-6: specific interaction and inventory fixes</h2>
+
+Checked **2026-11-01**, the [official EA 1.0-6 notes](https://store.steampowered.com/news/app/1798230/view/712290761518876736) list these specific cases. These are patch statements, not a playtest or a promise to restore lost items.
+
+| Issue | Listed change |
+| --- | --- |
+| VENU-14674 | Docked storage interaction |
+| VENU-14595 | PACE research drive cannot be interacted with after building the research desk early |
+| VENU-14539 | NVIDIA frame generation |
+| VENU-14211 | Generator cannot restart after a power outage when refuelled from zero fuel |
+| VENU-13528 | Fort Hannigan Striker hangar door, where a fuse is located |
+| VENU-14688 | Reactor core not correctly removed from inventory after installation |
+| VENU-14560 | Cloud Cruiser crafting can use the Cruiser inventory |
+
+Keep the reactor inventory-removal case separate from EA 1.0-5's lost-core cases, and the docked interaction fix separate from attachment despawn. No blanket performance or all-save recovery guarantee follows. [Filter EA 1.0-6 symptoms](/tools/troubleshooting/?v=ea-1.0-6).
+
+<h2 id="ea-1-0-7-fixes">EA 1.0-7: crafting, landing pads and Fort Hannigan progress</h2>
+
+Checked **2026-11-01**, the [official EA 1.0-7 notes](https://store.steampowered.com/news/app/1798230/view/712290761518876789) list:
+
+- **VENU-14224:** crafting resource UI not showing resources in chests.
+- **VENU-14650:** collision checks preventing a landing pad being placed again after dismantling it.
+- **VENU-14787:** loading a save from before EA 1.0-6 causing Fort Hannigan objective progress to regress and its frequency signal to become unfindable.
+- **VENU-14794:** large hangar doors behaving inconsistently after saving and loading.
+
+The objective fix has a specific older-save trigger. It is separate from the EA 1.0-6 Striker door fix and the community keycard/fuse route below. These notes do not establish universal objective completion or restoration of missing items. [Filter EA 1.0-7 symptoms](/tools/troubleshooting/?v=ea-1.0-7).
+
+<h2 id="fort-hannigan-keycard">Fort Hannigan keycard room: community answer</h2>
+
+The [community keycard discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546294705/) was checked **2026-11-01**. This is player guidance; no exact patch is established.
+
+<details>
+<summary>Show the keycard room hint (spoiler)</summary>
+<p>SugaryMedal points to the room beside the four fuses. The question author, Schpoun, replies that they found it. This is a question-author confirmation of a community hint, not developer confirmation or our own playtest.</p>
+</details>
+
+If your room or objective differs, record the objective text and installed version. The official door fixes above do not independently verify this route for every save.
+
+<h2 id="fort-hannigan-fuses">Fort Hannigan: four-fuse checklist</h2>
+
+The [community fuse discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546180015/), checked **2026-11-01**, includes a location list from **MrWiz985, reply #13**. The first fuse is already inserted; the remaining three are player-reported locations, not four loose items to collect.
+
+<details>
+<summary>Show fuse locations and power prerequisite (spoilers)</summary>
+<ul>
+<li>Check the fuse that is already inserted.</li>
+<li>Check the storage room in the power-generation building.</li>
+<li>Check the storage room near the restricted room where the turrets are disabled.</li>
+<li>Check the M6 hangar. The reply describes supplying power from a nearby utility pole through extension nodes before accessing it.</li>
+</ul>
+<p>Replies #4, #5 and #9 also discuss power and storage rooms. Compare these prerequisites with your objective rather than assuming the hangar opens without power.</p>
+</details>
+
+Reply **#6** reports no fuse found in the hangar; **#8** reports a lost fuse disappearing. These conflicting or unresolved reports mean the checklist is not a universal recovery route. No independently verified coordinates or replacement method are supplied. Keep this community guidance separate from official **VENU-13528 (EA 1.0-6)** and **VENU-14794 (EA 1.0-7)** door fixes.
 
 ## EA 1.0-5: reactor and camp storage fixes
 
@@ -48,7 +103,7 @@ Detailed wiring and battery directions in other replies are separate community g
 
 ## Docked storage is not the attachment-despawn fix
 
-A [developer reply checked October 31](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343) confirms that Camp Hub trunk access while docked to the Cloud Cruiser is intended, but an interaction bug is being tracked. A large Wasp pad was suggested only as a **possible** workaround. An experimental hotfix was a plan, not a confirmed release.
+A [developer reply checked October 31](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343) confirms that Camp Hub trunk access while docked to the Cloud Cruiser is intended, but records the historical EA 1.0-5 interaction bug. A large Wasp pad was suggested only as a **possible** workaround. That reply described an experimental hotfix as a plan. The later [EA 1.0-6 VENU-14674 fix](#ea-1-0-6-fixes) is now officially listed; this does not promise recovery of lost items.
 
 If a visible docked chest will not interact, do not classify it automatically as the EA 1.0-5 manual-attachment despawn fix. Record the pad, docking action, whether the trunk is visible and the installed version. See [docked Camp Hub interaction](/guides/cloud-cruiser-first-base/#docked-camp-hub-trunk-interaction) or the [storage symptom filter](/tools/troubleshooting/?symptom=storage).
 

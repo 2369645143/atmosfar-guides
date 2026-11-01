@@ -6,10 +6,14 @@ category: "补给与维修"
 badge: "开发者资料指南"
 readingTime: "5 分钟阅读"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-01"
 icon: "ri-flashlight-line"
 lang: "zh"
 ---
+
+<h2 id="ea-1-0-6-generator">EA 1.0-6：断电后发电机重启</h2>
+
+**2026-11-01 核验**：[EA 1.0-6 VENU-14211](https://store.steampowered.com/news/app/1798230/view/712290761518876736)针对断电后发电机燃料耗尽、补给后仍不能启动的情况。这是特定修复，与营地接线和研究负荷不同；不提供新燃料速率，也不保证解决全部断电。同补丁 **VENU-14688** 是反应堆安装后核芯未正确移出背包，不是承诺找回丢失核芯。[EA 1.0-6 电力筛选](/zh/tools/troubleshooting/?v=ea-1.0-6&symptom=power)。
 
 ## 燃料和电力分别管什么？
 

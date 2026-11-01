@@ -7,10 +7,16 @@ category: "制作与研究"
 badge: "开发者资料指南"
 readingTime: "3 分钟阅读"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-01"
 icon: "ri-tools-fill"
 lang: "zh"
 ---
+
+<h2 id="ea-1-0-6-research-and-crafting">EA 1.0-6 / 1.0-7：研究盘与制作库存</h2>
+
+**2026-11-01 核验**：[EA 1.0-6](https://store.steampowered.com/news/app/1798230/view/712290761518876736)列出 **VENU-14595**，提前造研究台后 PACE 研究盘无法交互；**VENU-14560**，母舰制作可调用母舰库存。[EA 1.0-7](https://store.steampowered.com/news/app/1798230/view/712290761518876789)另列 **VENU-14224**，制作资源 UI 未显示箱内资源。
+
+这些与研究持续耗电、EA 1.0-4 恢复时研究盘丢失不同。先对照发生动作与精确版本，不承诺找回已丢研究盘。[版本症状工具](/zh/tools/troubleshooting/?symptom=quest)。
 
 ## 先选对设备
 

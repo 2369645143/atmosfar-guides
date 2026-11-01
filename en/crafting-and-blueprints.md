@@ -6,10 +6,16 @@ category: "Crafting & Research"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-01"
 icon: "ri-tools-fill"
 lang: "en"
 ---
+
+<h2 id="ea-1-0-6-research-and-crafting">EA 1.0-6 / 1.0-7: research drive and crafting inventory</h2>
+
+Checked **2026-11-01**: [EA 1.0-6](https://store.steampowered.com/news/app/1798230/view/712290761518876736) lists **VENU-14595**, a PACE research-drive interaction failure after building the research desk early, and **VENU-14560**, crafting using the Cloud Cruiser inventory. [EA 1.0-7](https://store.steampowered.com/news/app/1798230/view/712290761518876789) separately lists **VENU-14224**, chest resources not appearing in the crafting resource UI.
+
+These are different from ongoing research power use and EA 1.0-4's lost-drive recovery case. Compare the action and exact version; no recovery of previously lost drives is promised. [Version/symptom helper](/tools/troubleshooting/?symptom=quest).
 
 ## Use the right station
 

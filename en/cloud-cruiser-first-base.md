@@ -5,10 +5,16 @@ category: "Vehicles"
 badge: "SOURCE CHECK · 2026-10-28"
 readingTime: "3 min read"
 publishDate: "2026-10-28"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-01"
 icon: "ri-home-gear-line"
 lang: "en"
 ---
+
+<h2 id="zero-thrust-unconfirmed">Cloud Cruiser at 0 MN: no confirmed solution</h2>
+
+In the [zero-thrust discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546288238/), checked **2026-11-01**, the author reports **0 MN after modifications**. Adding engines and reactors did not help the author. Another player's reload suggestion describes a different balloon malfunction; the original author has not confirmed it fixes zero thrust.
+
+Do not treat those suggestions as a solved route. Record the build, modifications, thrust display and sequence before reporting; this thread does not establish an exact applicable patch or a universal recovery method.
 
 ## What is the Cloud Cruiser?
 The Cloud Cruiser is a flying base that travels with your expedition. Developer material describes onboard work and customization, and makes clear that managing the vessel is a larger task than flying an individual Wasp. Earlier system demonstrations were made in an alpha build.
@@ -35,7 +41,7 @@ The [reactor discussion](https://steamcommunity.com/app/1798230/discussions/0/57
 
 ## Docked Camp Hub trunk interaction
 
-[Developer devl0f confirms that docked Camp Hub trunk access is intended](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343), checked October 31, 2026. The reported inability to interact is a tracked bug. The developer suggests a large Wasp pad as a **possible** workaround, without guaranteeing success. A proposed experimental hotfix is not confirmation that a fix has shipped.
+[Developer devl0f confirms that docked Camp Hub trunk access is intended](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343), checked October 31, 2026. That reply records the historical tracking state before EA 1.0-6. The developer suggests a large Wasp pad as a **possible** workaround, without guaranteeing success. The later [official EA 1.0-6 notes](https://store.steampowered.com/news/app/1798230/view/712290761518876736), checked 2026-11-01, now list **VENU-14674** as a specific docked-storage interaction fix. The earlier plan is no longer the latest status; this does not promise restoration of lost contents or a fix for every storage problem.
 
 Keep this separate from boxes failing to place on extreme terrain, manual-attachment despawn and forgetting where a camp was left. If the trunk is visible but cannot be opened after docking, record that symptom and the pad/version; do not treat it as proof that the contents were deleted. See [the storage symptom helper](/tools/troubleshooting/?symptom=storage) for these distinctions.
 

@@ -6,10 +6,16 @@ category: "Vehicles"
 badge: "资料核验 · 2026-10-28"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-28"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-01"
 icon: "ri-home-gear-line"
 lang: "zh"
 ---
+
+<h2 id="zero-thrust-unconfirmed">Cloud Cruiser 显示 0 MN：尚无确认解法</h2>
+
+[零推力讨论](https://steamcommunity.com/app/1798230/discussions/0/573805391546288238/)核验于 **2026-11-01**：原作者报告改装后显示 **0 MN**，并反馈增加发动机和反应堆无效。另一玩家基于不同的气球故障提出重载建议，原作者没有确认重载解决零推力。
+
+不要把这些建议当作已解决路线。反馈时记录版本、改装、推力显示及发生步骤；原帖未明确精确适用补丁，也未确认通用恢复方法。
 
 ## Cloud Cruiser 是什么？
 Cloud Cruiser 是随远征移动的飞行基地。开发者资料介绍了舱内工作和自定义功能，也说明管理整艘舰船比驾驶单架 Wasp 更复杂。较早的系统演示来自 Alpha 版本。
@@ -36,7 +42,7 @@ Cloud Cruiser 是随远征移动的飞行基地。开发者资料介绍了舱内
 
 ## 停靠后 Camp Hub 箱子无法交互
 
-[开发者 devl0f 确认停靠时应当能访问 Camp Hub 箱子](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343)，本页于 2026 年 10 月 31 日核对。无法交互属于正在追踪的 Bug；开发者提出大 Wasp 停机坪这一**可能**的临时办法，并未保证成功。计划提供的实验热修不等于已经发布。
+[开发者 devl0f 确认停靠时应当能访问 Camp Hub 箱子](https://steamcommunity.com/app/1798230/discussions/0/573805072991228002/#c573805072991228343)，本页于 2026 年 10 月 31 日核对。该回帖记录了 EA 1.0-6 之前的历史追踪状态；开发者提出大 Wasp 停机坪这一**可能**的临时办法，并未保证成功。后续[官方 EA 1.0-6 公告](https://store.steampowered.com/news/app/1798230/view/712290761518876736)已将 **VENU-14674** 停靠储物交互列为特定修复（2026-11-01 核验）；此前计划不再是最新状态。这不承诺恢复丢失内容物或解决所有储物问题。
 
 要区分极端地形摆放失败、手动挂接消失，以及忘记营地位置。停靠后箱子仍可见但打不开时，记录这个症状及停机坪和版本，不据此认定内容物已被删除。分类见[箱子症状工具](/zh/tools/troubleshooting/?symptom=storage)。
 

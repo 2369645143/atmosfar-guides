@@ -1,20 +1,24 @@
 ---
 title: "ATMOSFAR 性能排错：低帧率、DLAA 与加载问题指南"
 seoTitle: "ATMOSFAR 性能排错：低帧率、DLAA 与加载问题指南 | ATMOSFAR Wiki: Early Access"
-description: "核对 ATMOSFAR EA 1.0-5 操控和联机提示调整、较早的 DLAA 说明与当前配置；整理硬件设置和可重复步骤，反馈帧率与加载问题。"
+description: "核对 ATMOSFAR EA 1.0-6 NVIDIA 帧生成修复、较早的 DLAA 说明与当前配置；整理硬件设置和可重复步骤，反馈帧率与加载问题。"
 category: "问题排查"
-badge: "抢先体验 · EA 1.0-5 / 1.0-4"
+badge: "抢先体验 · EA 1.0-6 / 1.0-5 / 1.0-4"
 readingTime: "4 分钟阅读"
 publishDate: "2026-10-30"
-updatedDate: "2026-10-31"
-sourceNote: "2026 年 10 月 31 日核对 EA 1.0-5；较早的 EA 1.0-4 保留 10 月 30 日适用范围。本文为资料排查指南，并非实机跑分，也不保证解决所有问题。"
+updatedDate: "2026-11-01"
+sourceNote: "EA 1.0-6 NVIDIA 帧生成核验于 2026-11-01。2026 年 10 月 31 日核对 EA 1.0-5；较早的 EA 1.0-4 保留 10 月 30 日适用范围。本文为资料排查指南，并非实机跑分，也不保证解决所有问题。"
 icon: "ri-tools-line"
 lang: "zh"
 ---
 
+<h2 id="ea-1-0-6-nvidia-frame-generation">EA 1.0-6：NVIDIA 帧生成</h2>
+
+**2026-11-01 核验**：[官方 EA 1.0-6 公告](https://store.steampowered.com/news/app/1798230/view/712290761518876736)列出 **VENU-14539：NVIDIA 帧生成**。这是后续特定修复，与 EA 1.0-4 暂时禁用 DLAA 分开；不证明低帧率、DLSS、FSR 或加载问题全部解决。本站没有性能基准、帧率保证或实测画质预设；仍发生时记录显卡、设置与精确版本。[EA 1.0-6 性能筛选](/zh/tools/troubleshooting/?v=ea-1.0-6&symptom=performance)。
+
 ## 先核对已安装版本
 
-ATMOSFAR 已进入**抢先体验**。改设置前，记录游戏显示的版本，查看[官方 Steam 更新说明](https://steamcommunity.com/app/1798230/allnews/)，并完成 Steam 已提供的更新，再对照旧帖子。本页分别列出 2026 年 10 月 31 日核验的 **EA 1.0-5**，以及 10 月 30 日核验的较早 **EA 1.0-4** 说明；后续版本可能调整相关判断。
+ATMOSFAR 已进入**抢先体验**。改设置前，记录游戏显示的版本，查看[官方 Steam 更新说明](https://steamcommunity.com/app/1798230/allnews/)，并完成 Steam 已提供的更新，再对照旧帖子。本页分别列出 2026 年 10 月 31 日核验的 **EA 1.0-5**，以及 10 月 30 日核验的较早 **EA 1.0-4** 说明；后续版本可能调整相关判断。 本页也收录 2026-11-01 核验的 EA 1.0-6 NVIDIA 帧生成修复；其他新症状见 [EA 1.0-7 摘要](/zh/guides/opening-problems/#ea-1-0-7-fixes)。
 
 ## EA 1.0-5：操控、资源消耗与联机提示
 
@@ -28,7 +32,7 @@ ATMOSFAR 已进入**抢先体验**。改设置前，记录游戏显示的版本�
 | 合作连接失败 | 新增连接失败错误提示 | 错误信息更明确，不等于所有联机失败已修好 |
 | 核心或营地储物消失 | 列出特定丢失或消失情形的修复 | 见[开局问题分类](/zh/guides/opening-problems/#ea-10-5反应堆与营地储物修复)，不承诺自动补回旧物品 |
 
-官方没有将 EA 1.0-5 描述为低帧率的通用解法。公告还计划提供更大的后续更新或实验版本；仅凭计划不能认定已经发布。
+官方没有将 EA 1.0-5 描述为低帧率的通用解法。该历史公告当时还计划提供更大的后续更新或实验版本。后续 [EA 1.0-6](#ea-1-0-6-nvidia-frame-generation) 与 [EA 1.0-7](/zh/guides/opening-problems/#ea-1-0-7-fixes) 已列出具体发布变化，仍不代表所有低帧率问题已解决。
 
 下文的 DLAA、错误报告面板、教程复活与研究盘条目属于**较早的 EA 1.0-4**，原核验日期为 10 月 30 日。保留原适用范围，不把它们改称 EA 1.0-5 新修复。
 
