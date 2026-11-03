@@ -14,11 +14,11 @@ lang: "zh"
 
 ## 使用 Hauler，不是开局载具
 
-**开发者指引：** Apog 的 Sofia 提示玩家在坠毁母舰附近洞穴寻找另一种 Wasp。先[取得 Hauler 并打开机库出口](/zh/guides/hauler-wasp-unlock/)，再尝试吊运。[开发者原回复](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/)。
+<strong>开发者指引：</strong> Apog 的 Sofia 提示玩家在坠毁母舰附近洞穴寻找另一种 Wasp。先[取得 Hauler 并打开机库出口](/zh/guides/hauler-wasp-unlock/)，再尝试吊运。[开发者原回复](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/)。
 
 ## 交付与安装是两步
 
-**社区回答，11 月 3 日核实：** 同帖 #12 的 hypercool 表示，从顶部放入核心后，还要下到反应堆处，装备／选择核心使用。另一位玩家说自己把核心放在 Wasp 停机坪，核心消失并回到残骸；顶部入口容易被误认为风扇。
+<strong>社区回答，11 月 3 日核实：</strong> 同帖 #12 的 hypercool 表示，从顶部放入核心后，还要下到反应堆处，装备／选择核心使用。另一位玩家说自己把核心放在 Wasp 停机坪，核心消失并回到残骸；顶部入口容易被误认为风扇。
 
 <details>
 <summary>展开交付检查点（剧透）</summary>
@@ -34,14 +34,14 @@ lang: "zh"
 
 <h2 id="core-recovery">核心卡住或不见：按补丁区分</h2>
 
-**官方修复：** EA 1.0-8 处理特定重生与提取故障；EA 1.0-9 追加重生位置和卡角落修复。对于已经卡住的核心，开发者表示部分玩家需要保存并重载，才会触发重生。[查看官方公告与分支状态](/zh/guides/ea-patch-status/)。
+<strong>官方修复：</strong> EA 1.0-8 处理特定重生与提取故障；EA 1.0-9 追加重生位置和卡角落修复。对于已经卡住的核心，开发者表示部分玩家需要保存并重载，才会触发重生。[查看官方公告与分支状态](/zh/guides/ea-patch-status/)。
 
-这一说明只针对核心，不是所有丢失物品的恢复方案。EA 1.0-10 的核心标记／恢复功能属于**实验分支预览**，不要假定默认版已有；实验进度保存到新槽。
+这一说明只针对核心，不是所有丢失物品的恢复方案。EA 1.0-10 的核心标记／恢复功能属于<strong>实验分支预览</strong>，不要假定默认版已有；实验进度保存到新槽。
 
 ## 视频检查点：顶部入口与反应堆
 
-**创作者画面，11 月 3 日核实：**[Z1 Gaming 的 59:12](https://www.youtube.com/watch?v=xcvni4K5o5s&t=3552s)展示顶部接收口与磁铁交付；[约 1:00:00](https://www.youtube.com/watch?v=xcvni4K5o5s&t=3600s)可见反应堆交互和“Reactor core installed!”安装完成提示。录像发布于 10 月 31 日并披露赞助，未显示精确游戏补丁。这能佐证画面中的过程，不代表所有存档都可恢复。
+<strong>创作者画面，11 月 3 日核实：</strong>[Z1 Gaming 的 59:12](https://www.youtube.com/watch?v=xcvni4K5o5s&t=3552s)展示顶部接收口与磁铁交付；[约 1:00:00](https://www.youtube.com/watch?v=xcvni4K5o5s&t=3600s)可见反应堆交互和“Reactor core installed!”安装完成提示。录像发布于 10 月 31 日并披露赞助，未显示精确游戏补丁。这能佐证画面中的过程，不代表所有存档都可恢复。
 
 ## 仍不成功时
 
-**编辑报告清单：**记录版本与分支、当前目标、核心是否吸附、在哪释放，以及反应堆是否接受核心。[0 MN 零推力](/zh/guides/cloud-cruiser-first-base/#zero-thrust-unconfirmed)另行处理，本站尚无经确认的通用解法。
+<strong>编辑报告清单：</strong>记录版本与分支、当前目标、核心是否吸附、在哪释放，以及反应堆是否接受核心。[0 MN 零推力](/zh/guides/cloud-cruiser-first-base/#zero-thrust-unconfirmed)另行处理，本站尚无经确认的通用解法。

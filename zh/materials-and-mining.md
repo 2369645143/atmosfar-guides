@@ -18,13 +18,13 @@ lang: "zh"
 
 <h3 id="发光天晶矿石簇">树脂：先辨认采集物</h3>
 
-**历史 Demo 社区观察：**[Demo 讨论](https://www.reddit.com/r/SurvivalGaming/comments/1rcyg5t/atmosfar_demo_plays_good_but_what_are_your/)中，玩家描述小型深色树桩上的橙色物质。这只说明当时 Demo 所见，不保证当前版矿点或默认采集键相同。
+<strong>历史 Demo 社区观察：</strong>[Demo 讨论](https://www.reddit.com/r/SurvivalGaming/comments/1rcyg5t/atmosfar_demo_plays_good_but_what_are_your/)中，玩家描述小型深色树桩上的橙色物质。这只说明当时 Demo 所见，不保证当前版矿点或默认采集键相同。
 
-**官方 EA 1.0-6：** VENU-14610 增强树脂发光可见性与采集反馈。查看当前提示和拾取信息；本站尚未核实精确数量、电路板成本与再生时间。[补丁出处](https://store.steampowered.com/news/app/1798230/view/712290761518876736)。
+<strong>官方 EA 1.0-6：</strong> VENU-14610 增强树脂发光可见性与采集反馈。查看当前提示和拾取信息；本站尚未核实精确数量、电路板成本与再生时间。[补丁出处](https://store.steampowered.com/news/app/1798230/view/712290761518876736)。
 
 <h3 id="航空废料与钛合金骨架">废料：手持提取与吊运分开</h3>
 
-**开发者系统：**[母舰日志](https://www.atmosfar.game/feed/dev-blog-10-cloud-cruiser-101)介绍手持 Extractor 无法处理的大型废料，可由 Cargo／Hauler 运输到母舰上建造的材料处理器。资料属于 Alpha 时期，当前可处理物品与配方要看游戏。不要假定每堆废料都固定掉铜、齿轮或电线。
+<strong>开发者系统：</strong>[母舰日志](https://www.atmosfar.game/feed/dev-blog-10-cloud-cruiser-101)介绍手持 Extractor 无法处理的大型废料，可由 Cargo／Hauler 运输到母舰上建造的材料处理器。资料属于 Alpha 时期，当前可处理物品与配方要看游戏。不要假定每堆废料都固定掉铜、齿轮或电线。
 
 <h3 id="高空凝结冰晶">氢燃料与 Silica 是不同采集任务</h3>
 
@@ -32,7 +32,7 @@ lang: "zh"
 
 <h2 id="2-黄蜂机载拖曳绞盘开采实操">准备大型废料回收</h2>
 
-**编辑流程：**通过当前提示识别可吊运物，先准备接收处理器，检查燃料与损伤，再规划返程。磁铁操作以当前屏幕提示为准。[Hauler 获取](/zh/guides/hauler-wasp-unlock/)与[回收准备](/zh/guides/cargo-wasp-salvage/)是不同环节。
+<strong>编辑流程：</strong>通过当前提示识别可吊运物，先准备接收处理器，检查燃料与损伤，再规划返程。磁铁操作以当前屏幕提示为准。[Hauler 获取](/zh/guides/hauler-wasp-unlock/)与[回收准备](/zh/guides/cargo-wasp-salvage/)是不同环节。
 
 <h2 id="3-高空采矿安全作业守则">安全寻找并记下可复用地标</h2>
 

@@ -14,7 +14,7 @@ lang: "zh"
 
 ## 从游戏正在显示的任务进入
 
-这是**任务导航**，不是完整实机通关保证，也不是绘制过的世界地图。玩家探索顺序可能不同，先对照日志目标，再打开对应答案。
+这是<strong>任务导航</strong>，不是完整实机通关保证，也不是绘制过的世界地图。玩家探索顺序可能不同，先对照日志目标，再打开对应答案。
 
 | 当前任务 | 对应攻略 | 版本边界 |
 | --- | --- | --- |
@@ -29,10 +29,10 @@ lang: "zh"
 
 ## 地点索引：用地标导航，不编造坐标
 
-- **坠毁母舰／附近洞穴：**开发者确认寻找另一种 Wasp 的方向。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/)。
-- **天气数据聚落与军事基地：**开发者说明它们在同一岛上，但不是同一目的地。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966)。
-- **Fort Hannigan：**按对应目标查看门卡与保险丝，不能套用到所有锁门设施。
-- **Horizon Isles 轮胎沟／顶部外扩石柱：**社区 Silica 搜寻地标，指南针方向存在不确定性。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)。
+- <strong>坠毁母舰／附近洞穴：</strong>开发者确认寻找另一种 Wasp 的方向。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/)。
+- <strong>天气数据聚落与军事基地：</strong>开发者说明它们在同一岛上，但不是同一目的地。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966)。
+- <strong>Fort Hannigan：</strong>按对应目标查看门卡与保险丝，不能套用到所有锁门设施。
+- <strong>Horizon Isles 轮胎沟／顶部外扩石柱：</strong>社区 Silica 搜寻地标，指南针方向存在不确定性。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)。
 
 这里没有经过测量的岛屿坐标、完整收集品地图或最短路线。
 
