@@ -6,10 +6,16 @@ category: "补给与维修"
 badge: "开发者资料指南"
 readingTime: "5 分钟阅读"
 publishDate: "2026-10-16"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 icon: "ri-flashlight-line"
 lang: "zh"
 ---
+
+<h2 id="utility-wasp-backpack-charge">Utility Wasp 能给背包充电吗？</h2>
+
+**开发者回答，11 月 3 日核实：**[devl0f 说明](https://steamcommunity.com/app/1798230/discussions/0/573805072991183493/#c573805072991197446)，背包白天充电，在驾驶或留在 Wasp 内时有电力补充加成。回复没有给固定速度、发动机必须运转的条件，也没保证夜间充电。同帖有玩家说夜间没充上，这不足以证明所有存档都有同一故障。
+
+背包电量、Wasp 燃料与营地供电分开看。[母舰燃料需求 HUD 提示](/zh/guides/ea-patch-status/#ea-1-0-8)是另一套系统，不是零推力解法。
 
 <h2 id="ea-1-0-6-generator">EA 1.0-6：断电后发电机重启</h2>
 

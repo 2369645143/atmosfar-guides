@@ -1,0 +1,172 @@
+[
+  {
+    "id": "k7JOhLXqkw8",
+    "category": "opening",
+    "publisher": "Jepiii",
+    "publishedAt": "2026-10-30",
+    "embedReady": true,
+    "title": {
+      "en": "ATMOSFAR — First 2.5 Hours of Gameplay",
+      "zh": "ATMOSFAR 开局约 2.5 小时实机"
+    },
+    "scope": {
+      "en": "Early Access launch-day recording; exact patch not established",
+      "zh": "抢先体验发售期录像，未确定精确补丁"
+    },
+    "description": {
+      "en": "A long opening recording to compare the early experience with your active objective. We have checked the original title, channel and opening playback, not every quest step in the recording.",
+      "zh": "用较长开局录像对照体验和当前任务。已核实原频道、标题及开头播放，尚未逐项验证整段录像的任务步骤。"
+    },
+    "related": [
+      {
+        "path": "/guides/early-access-walkthrough/",
+        "en": "Task navigator",
+        "zh": "任务导航"
+      },
+      {
+        "path": "/guides/beginner-guide/",
+        "en": "Beginner guide",
+        "zh": "新手指南"
+      }
+    ],
+    "sourceUrl": "https://www.youtube.com/watch?v=k7JOhLXqkw8",
+    "channelUrl": "https://www.youtube.com/@ItsJepiii",
+    "checkedAt": "2026-11-03",
+    "sponsored": false
+  },
+  {
+    "id": "5BgKlZBAUpc",
+    "category": "systems",
+    "publisher": "Z1 Gaming",
+    "publishedAt": "2026-10-30",
+    "embedReady": true,
+    "title": {
+      "en": "Air Ships, Base Building, And Exploration",
+      "zh": "飞船、基地建设与探索"
+    },
+    "scope": {
+      "en": "Sponsored creator overview · launch period",
+      "zh": "创作者赞助内容 · 发售期"
+    },
+    "description": {
+      "en": "Z1 Gaming introduces the game through an expedition. The original description discloses sponsorship by ATMOSFAR; this is a creator presentation, not an independent test of the latest patch.",
+      "zh": "Z1 Gaming 通过探索介绍游戏。原说明明确披露 ATMOSFAR 赞助；这是创作者演示，不是最新补丁的独立测试。"
+    },
+    "related": [
+      {
+        "path": "/guides/cloud-cruiser-builds/",
+        "en": "Cruiser build planning",
+        "zh": "母舰建造规划"
+      },
+      {
+        "path": "/guides/hauler-wasp-unlock/",
+        "en": "Hauler cave and hangar",
+        "zh": "Hauler 洞穴与机库"
+      }
+    ],
+    "sourceUrl": "https://www.youtube.com/watch?v=5BgKlZBAUpc",
+    "channelUrl": "https://www.youtube.com/@Z1Gaming",
+    "checkedAt": "2026-11-03",
+    "sponsored": true
+  },
+  {
+    "id": "xcvni4K5o5s",
+    "category": "systems",
+    "publisher": "Z1 Gaming",
+    "publishedAt": "2026-10-31",
+    "embedReady": true,
+    "title": {
+      "en": "We Found A HAULER AIR SHIP And A Civilization!",
+      "zh": "取得 Hauler、探索聚落与交付核心"
+    },
+    "scope": {
+      "en": "Sponsored creator gameplay · exact patch not shown",
+      "zh": "创作者赞助实机 · 未显示精确补丁"
+    },
+    "description": {
+      "en": "The checked sequence shows the Cruiser roof intake, core delivery and installation. Jump to the verified moments from the reactor guide; other parts of the hour-long recording have not all been checked.",
+      "zh": "已检查段落展示母舰顶部接收口、核心交付与安装。反应堆攻略有对应时间点；并未逐项核实整段长录像。"
+    },
+    "related": [
+      {
+        "path": "/guides/reactor-core-delivery/",
+        "en": "Core delivery with video moments",
+        "zh": "核心交付与视频时间点"
+      },
+      {
+        "path": "/guides/hauler-wasp-unlock/",
+        "en": "Hauler acquisition checklist",
+        "zh": "Hauler 获取清单"
+      }
+    ],
+    "sourceUrl": "https://www.youtube.com/watch?v=xcvni4K5o5s",
+    "channelUrl": "https://www.youtube.com/@Z1Gaming",
+    "checkedAt": "2026-11-03",
+    "sponsored": true
+  },
+  {
+    "id": "WvgTBkP0hvo",
+    "category": "official",
+    "publisher": "ATMOSFAR",
+    "publishedAt": "2026-02-24",
+    "embedReady": true,
+    "title": {
+      "en": "Presenting: The Cloud Cruiser",
+      "zh": "官方介绍：Cloud Cruiser 母舰"
+    },
+    "scope": {
+      "en": "Official development overview · before Early Access",
+      "zh": "官方开发期介绍 · 早于抢先体验"
+    },
+    "description": {
+      "en": "An official tour of power, customization, docking, cargo and research. This older systems overview is linked by Dev Blog 20; it is not proof of current controls or construction costs.",
+      "zh": "官方介绍供电、定制、停靠、货物与研究。开发日志 20 链接了这段旧系统演示，不可据此断言当前按键与建造成本。"
+    },
+    "related": [
+      {
+        "path": "/guides/cloud-cruiser-builds/",
+        "en": "Power, lift and layout",
+        "zh": "电力、升力与布局"
+      },
+      {
+        "path": "/guides/reactor-core-delivery/",
+        "en": "Core delivery and recovery",
+        "zh": "核心交付与恢复"
+      }
+    ],
+    "sourceUrl": "https://www.youtube.com/watch?v=WvgTBkP0hvo",
+    "channelUrl": "https://www.youtube.com/@ATM0SFAR",
+    "checkedAt": "2026-11-03",
+    "sponsored": false
+  },
+  {
+    "id": "lSFYiqAQuUM",
+    "category": "buying",
+    "publisher": "The Singleplayer Squad",
+    "publishedAt": "2026-10-28",
+    "embedReady": true,
+    "title": {
+      "en": "ATMOSFAR But I Don't Waste Your Time",
+      "zh": "ATMOSFAR 购买前玩法初印象"
+    },
+    "scope": {
+      "en": "Creator opinion · published before launch",
+      "zh": "创作者意见 · 发售前发布"
+    },
+    "description": {
+      "en": "A short first-impressions and features video. Published October 28, before Early Access launched; use it as one perspective, not a current-version review or player consensus.",
+      "zh": "简短玩法初印象，10 月 28 日发布，早于抢先体验。作为单个作者视角参考，不作为当前版评测或玩家共识。"
+    },
+    "related": [
+      {
+        "path": "/guides/buying-and-mods-faq/",
+        "en": "Solo, co-op, platforms and mods",
+        "zh": "单人、联机、平台与模组"
+      }
+    ],
+    "sourceUrl": "https://www.youtube.com/watch?v=lSFYiqAQuUM",
+    "channelUrl": "https://www.youtube.com/@thesingleplayersquad",
+    "checkedAt": "2026-11-03",
+    "sponsored": false
+  }
+]

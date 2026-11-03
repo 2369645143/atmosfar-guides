@@ -1,51 +1,39 @@
 ---
-title: "ATMOSFAR Mining Guide: Sky Crystals & High-Altitude Scrap"
-description: "Comprehensive resource gathering guide for ATMOSFAR. Locate glowing sky crystal veins, salvage aerograde alloys, and operate winch cables."
-category: "Gathering & Mining"
-badge: "EARLY ACCESS SYSTEM • OCT 2026"
-readingTime: "5 min read"
+title: "ATMOSFAR Materials Guide: Resin, Silica and Scrap"
+seoTitle: "ATMOSFAR Materials Guide: Resin, Silica and Scrap Recovery"
+description: "Find sourced resource leads, distinguish handheld extraction from Hauler salvage, and plan collection without invented mining tools or yields."
+category: "Early Access Guides"
+badge: "SOURCE CHECK · EA"
+readingTime: "4 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
-icon: "ri-hammer-line"
+updatedDate: "2026-11-03"
+sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
+icon: "ri-compass-line"
 lang: "en"
 ---
 
-Planetary exploration across **planet Tycos** revolves around gathering four primary resource families: **Sky Crystals**, **Aerograde Scrap**, **Condensation Ice**, and **Electrochemical Fuel Pellets**. Knowing where to prospect and how to extract without plummeting into the void is fundamental to expanding your air fleet.
+<h2 id="1-primary-resource-categorization">Find materials by their actual collection method</h2>
 
----
+Use the item name and interaction displayed by your current build. This guide distinguishes developer-described systems from community location reports; it does not establish a complete mineral taxonomy or fixed drop table.
 
-## 1. Primary Resource Categorization
+<h3 id="luminescent-sky-crystals">Resin: identify the object before collecting</h3>
 
-### Luminescent Sky Crystals
-* **Appearance**: Vibrant cyan and purple crystal spires jutting from underside cliff walls.
-* **Extraction Tool**: Vibration Laser Cutter (tuned to resonant frequency).
-* **Usage**: Required for crafting ion thrusters, shield coils, and energy capacitor cells.
-* **Danger**: Often surrounded by unstable gravimetric micro-vortices.
+**Historical Demo community observation:** players in [this Demo discussion](https://www.reddit.com/r/SurvivalGaming/comments/1rcyg5t/atmosfar_demo_plays_good_but_what_are_your/) describe orange material on small dark stumps. That identifies what those Demo players saw, not a guaranteed current-version deposit or default collection key.
 
-### Aerograde Scrap & Hull Plating
-* **Appearance**: Twisted titanium alloy beams from shattered orbital stations.
-* **Extraction Tool**: Industrial Torch or Wasp Tow Winch.
-* **Usage**: Basic structural building blocks for Cloud Cruiser deck extensions and Wasp armor plating.
+**Official EA 1.0-6:** VENU-14610 improves resin glow visibility and collection feedback. Inspect the current prompt and pickup message. Exact yields, circuit-board costs and regrowth times are not verified here. [Patch source](https://store.steampowered.com/news/app/1798230/view/712290761518876736).
 
-### Condensation Ice & Pure Water
-* **Appearance**: Dense crystalline ice blocks found in perpetual sub-zero clouds above 4,000 meters.
-* **Extraction Tool**: Hand pick or onboard atmospheric condensers.
-* **Usage**: Melted into drinking water and split via electrolysis into pure breathable oxygen.
+<h3 id="aerograde-scrap--hull-plating">Scrap: handheld extraction versus transport</h3>
 
----
+**Developer system:** the [Cruiser diary](https://www.atmosfar.game/feed/dev-blog-10-cloud-cruiser-101) describes scrap too large for the handheld Extractor. Its loop is transport by a Cargo/Hauler craft to a material processor built on the Cruiser. This is an alpha-era description, so current object eligibility and recipes must be checked in-game. Do not assume a fixed copper, cog or wire yield from every heap.
 
-## 2. Tow Winch Extraction Operations
+<h3 id="condensation-ice--pure-water">Hydrogen and Silica are different collection tasks</h3>
 
-Heavy mineral boulders embedded in cliff faces cannot fit into player backpacks. To harvest them:
+For fuel, use the [hydrogen and power guide](/guides/fuel-and-power/). For expansion materials, use the dedicated [Silica location leads](/guides/silica-locations/), based on November 3 community landmark reports. Neither page provides an unverified altitude threshold or automatic mining radar.
 
-1. Bring the Wasp scout to a stable hover (`V`) within 20 meters of the deposit.
-2. Fire the magnetic tow cable from the ventral launcher.
-3. Once clamped, engage vertical thrusters to tear the mineral boulder free from the bedrock.
-4. Ferry the suspended load directly into the Cloud Cruiser's sorting bay.
+<h2 id="2-tow-winch-extraction-operations">Prepare large-scrap recovery</h2>
 
----
+**Editorial workflow:** identify a liftable object using its current prompt, prepare the receiving processor, check fuel and damage, then plan a clear return. Follow the displayed magnet controls. The [Hauler acquisition guide](/guides/hauler-wasp-unlock/) is separate from [salvage preparation](/guides/cargo-wasp-salvage/).
 
-## 3. High-Altitude Prospecting Protocol
+<h2 id="3-high-altitude-prospecting-protocol">Search safely and record a useful landmark</h2>
 
-* **Survey with Electromagnetic Ping (`C`)**: Releases a 500-meter radar sweep highlighting hidden interior cave veins through solid rock.
-* **Secure the Anchor Point First**: Always plant a piton grapple anchor into the stone before beginning prolonged laser drilling.
+Take return supplies, compare the island name with the source, and record the pickup result rather than only the object's appearance. No verified all-material coordinates, extraction distance, scan radius or complete crafting calculator is supplied here. [Task and location index](/guides/early-access-walkthrough/).

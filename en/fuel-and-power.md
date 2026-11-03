@@ -5,10 +5,16 @@ category: "Survival Systems"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 icon: "ri-flashlight-line"
 lang: "en"
 ---
+
+<h2 id="utility-wasp-backpack-charge">Can the Utility Wasp charge the backpack?</h2>
+
+**Developer answer, checked November 3:** [devl0f explains](https://steamcommunity.com/app/1798230/discussions/0/573805072991183493/#c573805072991197446) that the backpack charges during daytime and gets a power boost while piloting or remaining in a Wasp. The reply does not establish a fixed charging rate, a required engine state or guaranteed nighttime charging. The thread includes a player's nighttime no-charge report; that does not prove a universal bug.
+
+Keep backpack charge separate from Wasp fuel and camp power. The [Cruiser fuel-demand HUD warning](/guides/ea-patch-status/#ea-1-0-8) is another system, not a zero-thrust cure.
 
 <h2 id="ea-1-0-6-generator">EA 1.0-6: generator restart after an outage</h2>
 

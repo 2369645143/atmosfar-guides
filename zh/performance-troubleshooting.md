@@ -6,11 +6,15 @@ category: "问题排查"
 badge: "抢先体验 · EA 1.0-6 / 1.0-5 / 1.0-4"
 readingTime: "4 分钟阅读"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 sourceNote: "EA 1.0-6 NVIDIA 帧生成核验于 2026-11-01。2026 年 10 月 31 日核对 EA 1.0-5；较早的 EA 1.0-4 保留 10 月 30 日适用范围。本文为资料排查指南，并非实机跑分，也不保证解决所有问题。"
 icon: "ri-tools-line"
 lang: "zh"
 ---
+
+<h2 id="inventory-crash-ea-1-0-8">EA 1.0-8 库存崩溃与实验 FOV 预览</h2>
+
+**官方更新，11 月 3 日核实：** VENU-14237 列出特定库存相关崩溃修复。EA 1.0-10 的 FOV 滑块与帧率设置显示调整属于**实验分支预览**，不是默认版发布或帧率保证。[补丁与另存新槽说明](/zh/guides/ea-patch-status/) · [筛选性能症状](/zh/tools/troubleshooting/?symptom=performance)。
 
 <h2 id="ea-1-0-6-nvidia-frame-generation">EA 1.0-6：NVIDIA 帧生成</h2>
 

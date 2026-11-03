@@ -5,11 +5,15 @@ category: "Troubleshooting"
 badge: "EARLY ACCESS · EA 1.0-6 / 1.0-5 / 1.0-4"
 readingTime: "4 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 sourceNote: "EA 1.0-6 NVIDIA frame generation checked 2026-11-01. EA 1.0-5 notes checked October 31, 2026; earlier EA 1.0-4 notes retain their October 30 scope. This is source-based troubleshooting, not a device benchmark or guarantee of a fix."
 icon: "ri-tools-line"
 lang: "en"
 ---
+
+<h2 id="inventory-crash-ea-1-0-8">EA 1.0-8 inventory crash; Experimental FOV preview</h2>
+
+**Official update, checked November 3:** VENU-14237 lists a specific inventory-related crash fix. EA 1.0-10 previews an FOV slider and FPS-setting display changes in the **Experimental branch**; these are not default-release or FPS guarantees. [Patch and save-slot guidance](/guides/ea-patch-status/) · [Filter performance symptoms](/tools/troubleshooting/?symptom=performance).
 
 <h2 id="ea-1-0-6-nvidia-frame-generation">EA 1.0-6: NVIDIA frame generation</h2>
 

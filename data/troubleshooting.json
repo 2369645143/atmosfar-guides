@@ -672,5 +672,395 @@
         "zh": "改装后 0 MN：未确认解法"
       }
     ]
+  },
+  {
+    "id": "inventory-crash-ea108",
+    "symptom": "performance",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "fixed",
+    "en": {
+      "title": "Inventory-related crash",
+      "advice": "VENU-14237 lists an inventory-related crash fix.",
+      "limits": "This is not a fix for every crash or a performance benchmark."
+    },
+    "zh": {
+      "title": "库存相关崩溃",
+      "advice": "VENU-14237 列出一类库存相关崩溃修复。",
+      "limits": "不代表所有崩溃或帧率问题都已解决。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "inventory-death-ea108",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Inventory retained after death or respawn",
+      "advice": "VENU-14887 changes death/respawn so inventory is no longer lost.",
+      "limits": "This does not promise restoration of objects lost in earlier saves."
+    },
+    "zh": {
+      "title": "死亡或重生后保留库存",
+      "advice": "VENU-14887 调整死亡与重生，不再丢失库存。",
+      "limits": "不保证恢复旧存档此前已丢失的物品。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "reactor-respawn-ea108",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "fixed",
+    "en": {
+      "title": "Core fails to respawn or gets stuck during extraction",
+      "advice": "VENU-14745, VENU-14934 and VENU-14937 address specific core respawn and extraction cases.",
+      "limits": "A later EA 1.0-9 hotfix has additional fixes; distinguish the action and version."
+    },
+    "zh": {
+      "title": "核心无法重生或提取时卡住",
+      "advice": "VENU-14745、VENU-14934、VENU-14937 处理特定核心重生与提取问题。",
+      "limits": "后续 EA 1.0-9 还有补充修复，需区分操作与版本。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "quinn-dialogue-ea108",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "fixed",
+    "en": {
+      "title": "Quinn dialogue cuts off after obtaining Striker",
+      "advice": "VENU-10204 lists a fix for this specific dialogue interruption.",
+      "limits": "This does not provide the Striker acquisition route or fix every objective."
+    },
+    "zh": {
+      "title": "取得 Striker 后 Quinn 对话提前结束",
+      "advice": "VENU-10204 列出这一特定对话中断修复。",
+      "limits": "不等于提供 Striker 获取路线，也不代表所有任务故障已解决。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "hauler-magnet-ea108",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Hauler magnet pickup area",
+      "advice": "VENU-14910 increases the magnet area of effect.",
+      "limits": "No exact radius, controls or guaranteed pickup for every object is stated."
+    },
+    "zh": {
+      "title": "Hauler 磁铁拾取范围",
+      "advice": "VENU-14910 增加磁铁作用范围。",
+      "limits": "公告未给出精确半径、按键或所有物品必可拾取的保证。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "fuel-demand-ea108",
+    "symptom": "power",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Cruiser fuel demand exceeds available supply",
+      "advice": "VENU-14906 adds a HUD notification for insufficient fuel at the requested thrust level.",
+      "limits": "A warning is not a confirmed zero-thrust fix."
+    },
+    "zh": {
+      "title": "母舰推力所需燃料超过可用供应",
+      "advice": "VENU-14906 增加当前推力所需燃料不足的 HUD 提示。",
+      "limits": "提示不等于零推力的已确认解法。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "reactor-reload-ea109",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-9"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "fixed",
+    "en": {
+      "title": "Core respawn position after save/reload",
+      "advice": "VENU-15017 and VENU-14937 address respawn positions and extraction corner traps; some stuck cores need save/reload to trigger respawn.",
+      "limits": "The reload instruction applies to the stuck core, not all missing items or zero thrust."
+    },
+    "zh": {
+      "title": "保存重载后核心重生位置异常",
+      "advice": "VENU-15017 与 VENU-14937 处理重生位置和提取卡角落；部分已卡住核心需保存重载触发重生。",
+      "limits": "保存重载说明限于卡住的核心，不适用于所有丢失物品或零推力。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-9",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518877157?l=english",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "camp-hub-placement-ea109",
+    "symptom": "storage",
+    "versions": [
+      "ea-1.0-9"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "fixed",
+    "en": {
+      "title": "Camp Hub placed atop a stored Hub",
+      "advice": "The updated EA 1.0-9 notes include VENU-15090 for this placement problem.",
+      "limits": "This does not establish recovery of lost Hub contents."
+    },
+    "zh": {
+      "title": "营地 Hub 可放在已收纳 Hub 上方",
+      "advice": "更新版 EA 1.0-9 公告包含这一放置问题 VENU-15090。",
+      "limits": "不代表可恢复已丢失的 Hub 内容。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-9",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518877157?l=english",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "experimental-controls-ea110",
+    "symptom": "performance",
+    "versions": [
+      "experimental-1.0-10"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Experimental preview: FOV and controls",
+      "advice": "The EA 1.0-10 Experimental preview announces an FOV slider, rebinding and V-Sync FPS-display changes.",
+      "limits": "Not confirmed on the default branch. Save Experimental progress into a new slot; this is not an FPS guarantee."
+    },
+    "zh": {
+      "title": "实验预览：FOV 与控制设置",
+      "advice": "EA 1.0-10 实验预览公布 FOV 滑块、重绑及 V-Sync 帧率设置显示调整。",
+      "limits": "未确认默认分支已发布。实验进度保存到新槽；不保证帧率。"
+    },
+    "path": "/guides/ea-patch-status/#experimental-1-0-10",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518877314",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "experimental-shared-crafting-ea110",
+    "symptom": "storage",
+    "versions": [
+      "experimental-1.0-10"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Experimental preview: shared crafting and storage commands",
+      "advice": "The preview adds co-op client camp/Cruiser inventory crafting and container stack/split/sort commands.",
+      "limits": "Experimental only; do not treat this as the default release or promised lost-item recovery."
+    },
+    "zh": {
+      "title": "实验预览：共享制作与储物指令",
+      "advice": "预览增加合作客机从营地或母舰库存制作，以及箱内堆叠拆分排序指令。",
+      "limits": "仅实验预览，不能视为默认版变化或物品找回保证。"
+    },
+    "path": "/guides/ea-patch-status/#experimental-1-0-10",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518877314",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "experimental-core-ea110",
+    "symptom": "quest",
+    "versions": [
+      "experimental-1.0-10"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Experimental preview: core waypoint and recovery",
+      "advice": "The EA 1.0-10 preview describes a core quest-item waypoint and recovery when lost.",
+      "limits": "No default-branch release confirmation; not a universal fix for all saves. Save progress into a new slot."
+    },
+    "zh": {
+      "title": "实验预览：核心标记与恢复",
+      "advice": "EA 1.0-10 预览描述任务核心标记与丢失恢复。",
+      "limits": "尚未确认默认分支发布，不保证所有存档恢复。实验进度另存新槽。"
+    },
+    "path": "/guides/ea-patch-status/#experimental-1-0-10",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518877314",
+        "en": "Apog Labs official notes / Experimental announcement, checked November 3, 2026.",
+        "zh": "Apog Labs 官方补丁或实验分支公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "utility-wasp-backpack-charge",
+    "symptom": "power",
+    "versions": [],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "Backpack charging while in a Wasp",
+      "advice": "The developer describes daytime backpack charging and a power boost while piloting or remaining in a Wasp.",
+      "limits": "No fixed rate, required engine state or guaranteed nighttime charging is established; the reply does not identify an exact patch."
+    },
+    "zh": {
+      "title": "在 Wasp 内给背包补充电力",
+      "advice": "开发者说明背包白天充电，并在驾驶或留在 Wasp 内时获得电力补充加成。",
+      "limits": "没有确认固定速度、发动机状态或夜间充电保证，回复也未指定精确补丁。"
+    },
+    "path": "/guides/fuel-and-power/#utility-wasp-backpack-charge",
+    "evidence": [
+      {
+        "kind": "developer",
+        "url": "https://steamcommunity.com/app/1798230/discussions/0/573805072991183493/#c573805072991197446",
+        "en": "devl0f [Apog], accepted answer; original thread checked November 3.",
+        "zh": "devl0f [Apog] 被采纳的回答，11 月 3 日检查原帖。"
+      }
+    ]
+  },
+  {
+    "id": "bug-reporter-ea108",
+    "symptom": "performance",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "fixed",
+    "en": {
+      "title": "Bug report panel sometimes stays open",
+      "advice": "VENU-14886 fixes a rare case where the bug report tool does not close after Submit.",
+      "limits": "This concerns the report panel, not proof that a submitted gameplay bug is fixed."
+    },
+    "zh": {
+      "title": "错误报告面板偶发无法关闭",
+      "advice": "VENU-14886 修复提交后错误报告工具偶发无法关闭。",
+      "limits": "这是报告面板的问题，不代表所提交的游戏故障已经修复。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Official EA 1.0-8 notes, checked November 3, 2026.",
+        "zh": "官方 EA 1.0-8 公告，2026-11-03 核实。"
+      }
+    ]
+  },
+  {
+    "id": "pace-respawn-ea108",
+    "symptom": "quest",
+    "versions": [
+      "ea-1.0-8"
+    ],
+    "checkedAt": "2026-11-03",
+    "status": "guidance",
+    "en": {
+      "title": "PACE drone respawn delay",
+      "advice": "VENU-14811 increases the PACE drone respawn delay across spawners.",
+      "limits": "The notes give no exact timer and do not promise that an area stays cleared permanently."
+    },
+    "zh": {
+      "title": "PACE 无人机重生间隔",
+      "advice": "VENU-14811 增加各刷新点 PACE 无人机的重生间隔。",
+      "limits": "公告没有精确计时，也不表示清理后的区域永久没有敌人。"
+    },
+    "path": "/guides/ea-patch-status/#ea-1-0-8",
+    "evidence": [
+      {
+        "kind": "official-patch",
+        "url": "https://store.steampowered.com/news/app/1798230/view/712290761518876903",
+        "en": "Official EA 1.0-8 notes, checked November 3, 2026.",
+        "zh": "官方 EA 1.0-8 公告，2026-11-03 核实。"
+      }
+    ]
   }
 ]

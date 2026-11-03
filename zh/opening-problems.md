@@ -6,11 +6,17 @@ category: "开局排错"
 badge: "抢先体验 · 来源核验"
 readingTime: "8 分钟阅读"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 sourceNote: "EA 1.0-6 / 1.0-7 与新增社区提示核验于 2026-11-01。2026 年 10 月 31 日核对 EA 1.0-5 及新增社区回复；较早的 EA 1.0-4 保留 10 月 30 日适用范围。官方说明、开发者回复和社区答案分别标注，本文并非实机通关记录。"
 icon: "ri-map-pin-line"
 lang: "zh"
 ---
+
+<h2 id="ea-1-0-8-and-1-0-9">后续修复：EA 1.0-8／1.0-9</h2>
+
+**官方更新，11 月 3 日核实：**[补丁状态页](/zh/guides/ea-patch-status/)整理死亡后保留库存、库存崩溃、核心重生／提取、Quinn 对话，以及更新版 Hub 放置修复。EA 1.0-10 是**实验分支预览**，尚未确认默认版发布。EA 1.0-9 的保存重载指引限于触发已卡住核心的重生。
+
+如果需要路线而非故障说明，可看 [Hauler 洞穴出口](/zh/guides/hauler-wasp-unlock/)、[核心交付](/zh/guides/reactor-core-delivery/)、[Striker 获取](/zh/guides/striker-wasp-unlock/)或[任务导航](/zh/guides/early-access-walkthrough/)。下方历史补丁记录保留原来的版本范围。
 
 <h2 id="ea-1-0-6-fixes">EA 1.0-6：交互与库存的特定修复</h2>
 

@@ -5,11 +5,17 @@ category: "Starter Troubleshooting"
 badge: "EARLY ACCESS · SOURCE CHECK"
 readingTime: "8 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 sourceNote: "EA 1.0-6 / 1.0-7 and community additions checked 2026-11-01. EA 1.0-5 and new community replies checked October 31, 2026. Earlier EA 1.0-4 checks retain their October 30 scope. Official and community evidence are identified separately; this is not a release-build playtest."
 icon: "ri-map-pin-line"
 lang: "en"
 ---
+
+<h2 id="ea-1-0-8-and-1-0-9">Newer fixes: EA 1.0-8 / 1.0-9</h2>
+
+**Official updates, checked November 3:** the [patch status page](/guides/ea-patch-status/) covers inventory retention after death, inventory crashes, core respawn/extraction, Quinn dialogue and the updated Camp Hub placement fix. EA 1.0-10 is an **Experimental preview**, not a confirmed default release. For a core already stuck, the EA 1.0-9 save/reload instruction is limited to triggering core respawn.
+
+For the route rather than a bug, use [Hauler cave and exit](/guides/hauler-wasp-unlock/), [core delivery](/guides/reactor-core-delivery/), [Striker acquisition](/guides/striker-wasp-unlock/) or the [task navigator](/guides/early-access-walkthrough/). Historical patch records below retain their original version scope.
 
 <h2 id="ea-1-0-6-fixes">EA 1.0-6: specific interaction and inventory fixes</h2>
 

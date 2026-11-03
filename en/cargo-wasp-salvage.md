@@ -6,10 +6,14 @@ category: "Vehicles & Salvage"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-11-03"
 icon: "ri-flight-takeoff-line"
 lang: "en"
 ---
+
+<h2 id="hauler-acquisition-and-delivery">Get the Hauler and leave its cave</h2>
+
+The current acquisition answer is separate from this older system overview: [Hauler keycard, power console and hangar exit](/guides/hauler-wasp-unlock/) combines a developer cave lead with a labelled community route. Then use [core delivery](/guides/reactor-core-delivery/) if that is your objective. The developer's October 27 launch overview uses the name **Hauler**; earlier diaries below use **Cargo**.
 
 ## When the handheld Extractor is not enough
 

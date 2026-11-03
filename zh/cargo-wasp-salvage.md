@@ -1,15 +1,20 @@
 ---
 title: "ATMOSFAR Cargo Wasp 吊运攻略：大型废料运输与回收流程"
+seoTitle: "ATMOSFAR Cargo Wasp 吊运攻略：大型废料运输与回收流程 | ATMOSFAR Early Access"
 description: "规划 Cargo Wasp 吊运任务，区分手持提取与大型废料处理，提前准备接收位置、燃料与回收设备。"
 sourceNote: "依据官方开发日志整理，2026-10-16 核对。资料描述 alpha 或 EA beta 开发版本，尚未实测发行版本的操作与数值。"
 category: "载具与回收"
 badge: "开发者资料指南"
 readingTime: "3 分钟阅读"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-11-03"
 icon: "ri-flight-takeoff-line"
 lang: "zh"
 ---
+
+<h2 id="hauler-acquisition-and-delivery">取得 Hauler 并离开洞穴</h2>
+
+当前获取答案与下方旧系统介绍分开：[Hauler 门禁卡、供电控制台与机库出口](/zh/guides/hauler-wasp-unlock/)结合官方洞穴线索与明确标注的社区路线。若任务是核心，再看[核心交付](/zh/guides/reactor-core-delivery/)。开发者 10 月 27 日发售介绍使用 **Hauler**，下方早期日志使用 **Cargo**。
 
 ## 手持 Extractor 处理不了的大型废料
 

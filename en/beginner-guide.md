@@ -5,10 +5,14 @@ category: "Starter Guides"
 badge: "SOURCE CHECK · 2026-10-30"
 readingTime: "3 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-03"
 icon: "ri-compass-3-line"
 lang: "en"
 ---
+
+<h2 id="current-task-navigation">Find your current task and watch the right build</h2>
+
+Use the [Early Access task navigator](/guides/early-access-walkthrough/) for Hauler, core, weather data and Striker answers; [materials](/guides/materials-and-mining/) for sourced collection leads. The [video library](/media/#opening) separates launch-day gameplay from pre-release/Demo footage, and [buying questions](/guides/buying-and-mods-faq/) cover solo, multiplayer and mods.
 
 ## Before your first expedition
 ATMOSFAR is available in Early Access, which began October 29, 2026. Use the [Steam purchase and release guide](/release-date/) to check prices and launch content. This guide is preparation advice based on developer descriptions; no launch build has been tested here.

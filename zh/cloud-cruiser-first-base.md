@@ -6,10 +6,14 @@ category: "Vehicles"
 badge: "资料核验 · 2026-10-28"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-28"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 icon: "ri-home-gear-line"
 lang: "zh"
 ---
+
+<h2 id="current-build-and-core-guides">建造、核心交付与后续补丁</h2>
+
+先看[母舰布局与扩建检查](/zh/guides/cloud-cruiser-builds/)或[核心交付、安装与恢复](/zh/guides/reactor-core-delivery/)。后者区分社区操作与 EA 1.0-8／1.0-9 官方修复。下方旧核心说明是历史记录，不代表最新状态。[当前补丁与实验分支区别](/zh/guides/ea-patch-status/)。0 MN 零推力仍未确认解法。
 
 <h2 id="zero-thrust-unconfirmed">Cloud Cruiser 显示 0 MN：尚无确认解法</h2>
 

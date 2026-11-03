@@ -1,14 +1,19 @@
 ---
 title: "ATMOSFAR 新手入门：首次远征与营地准备"
+seoTitle: "ATMOSFAR 新手入门：首次远征与营地准备 | ATMOSFAR Wiki: Early Access"
 description: "准备 ATMOSFAR 首次远征：检查操作设置、选择 Wasp、整理营地，区分首发内容与后续更新。"
 category: "Starter Guides"
 badge: "资料核验 · 2026-10-30"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-03"
 icon: "ri-compass-3-line"
 lang: "zh"
 ---
+
+<h2 id="current-task-navigation">按当前任务与版本找攻略</h2>
+
+[抢先体验任务导航](/zh/guides/early-access-walkthrough/)串联 Hauler、核心、天气数据与 Striker；[材料指南](/zh/guides/materials-and-mining/)给有出处的采集线索。[视频库](/zh/media/#opening)区分发售期实机与发售前／Demo 画面，[购买问题](/zh/guides/buying-and-mods-faq/)解释单人、联机与模组。
 
 ## 出发前先确认
 ATMOSFAR 已于 2026 年 10 月 29 日开启抢先体验，即北京时间 10 月 30 日 00:00。购买与首发内容见[Steam 入口与发售指南](/zh/release-date/)。本页是依据开发者介绍整理的准备建议，没有在首发版本中实测。

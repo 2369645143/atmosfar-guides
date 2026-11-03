@@ -5,10 +5,14 @@ category: "Vehicles"
 badge: "SOURCE CHECK · 2026-10-28"
 readingTime: "3 min read"
 publishDate: "2026-10-28"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-03"
 icon: "ri-home-gear-line"
 lang: "en"
 ---
+
+<h2 id="current-build-and-core-guides">Building, core delivery and newer patches</h2>
+
+Start with [Cruiser layout and expansion checks](/guides/cloud-cruiser-builds/) or [core delivery, installation and recovery](/guides/reactor-core-delivery/). The latter separates community steps from EA 1.0-8/1.0-9 official fixes. Older core notes below are historical records, not the latest status. [Current patch and Experimental distinction](/guides/ea-patch-status/). The 0 MN case remains unconfirmed.
 
 <h2 id="zero-thrust-unconfirmed">Cloud Cruiser at 0 MN: no confirmed solution</h2>
 

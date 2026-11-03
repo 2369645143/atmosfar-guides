@@ -46,6 +46,22 @@ These notes separate developer-confirmed behavior from community hints. Planned 
 
 攻略分别标明开发者确认的行为与社区提示；计划修复和可能的临时办法不表述为已发布更新或必定找回。
 
+### November 3 content update / 11 月 3 日内容更新
+
+- [EA 1.0-8 / 1.0-9 and Experimental](en/ea-patch-status.md) · [补丁与实验分支状态](zh/ea-patch-status.md) · [Website](https://atmosfarwiki.com/guides/ea-patch-status/)
+- [Task and location navigator](en/early-access-walkthrough.md) · [任务与地点导航](zh/early-access-walkthrough.md) · [Website](https://atmosfarwiki.com/guides/early-access-walkthrough/)
+- [Silica location leads](en/silica-locations.md) · [Silica 获取线索](zh/silica-locations.md) · [Website](https://atmosfarwiki.com/guides/silica-locations/)
+- [Striker and Fort Hannigan](en/striker-wasp-unlock.md) · [Striker 与 Fort Hannigan](zh/striker-wasp-unlock.md) · [Website](https://atmosfarwiki.com/guides/striker-wasp-unlock/)
+- [Hauler cave and hangar](en/hauler-wasp-unlock.md) · [Hauler 洞穴与机库](zh/hauler-wasp-unlock.md) · [Website](https://atmosfarwiki.com/guides/hauler-wasp-unlock/)
+- [Reactor core delivery and recovery](en/reactor-core-delivery.md) · [反应堆核心交付与恢复](zh/reactor-core-delivery.md) · [Website](https://atmosfarwiki.com/guides/reactor-core-delivery/)
+- [Cloud Cruiser build planning](en/cloud-cruiser-builds.md) · [母舰建造规划](zh/cloud-cruiser-builds.md) · [Website](https://atmosfarwiki.com/guides/cloud-cruiser-builds/)
+- [Buying, solo, co-op and mods FAQ](en/buying-and-mods-faq.md) · [购买、单人、联机与模组问答](zh/buying-and-mods-faq.md) · [Website](https://atmosfarwiki.com/guides/buying-and-mods-faq/)
+- [Original-channel video library](https://atmosfarwiki.com/media/) · [原频道视频库](https://atmosfarwiki.com/zh/media/)
+
+Official fixes, community routes and editorial planning are labelled separately. EA 1.0-10 remains an Experimental preview; zero thrust has no confirmed solution.
+
+官方修复、社区路线和编辑规划分别标注。EA 1.0-10 仍为实验预览，零推力未标为已解决。
+
 ### English Guides (`./en/`)
 * [Weather & Navigation](en/weather-and-navigation.md) - Buzzing warnings, weather decisions and return landmarks.
 * [Cargo Wasp Salvage](en/cargo-wasp-salvage.md) - Hoisting jobs and the large scrap recovery loop.
@@ -57,7 +73,7 @@ These notes separate developer-confirmed behavior from community hints. Planned 
 * [Prologue Walkthrough](en/prologue-walkthrough.md) - Utility Wasp first-flight preparation; unverified opening steps withdrawn.
 * [Crafting & Research Guide](en/crafting-and-blueprints.md) - Camp equipment requirements, artifact research and relocation scope.
 * [Weapons & Aerial Dogfights](en/weapons-and-combat.md) - Kinetic autocannons, pulse lasers, and carrier point defense.
-* [Materials & Mining Extraction](en/materials-and-mining.md) - Luminescent sky crystals, titanium scrap, and tow winches.
+* [Materials & Mining Extraction](en/materials-and-mining.md) - Sourced Resin, Silica, hydrogen and scrap collection methods.
 * [Oxygen & Altitude Stratification](en/oxygen-management.md) - Atmospheric pressure tiers, hypoxic danger thresholds, and O2 scrubbers.
 * [Co-op & Hosting FAQ](en/co-op-multiplayer.md) - Player-hosted sessions, dedicated-server status and save planning.
 
@@ -72,7 +88,7 @@ These notes separate developer-confirmed behavior from community hints. Planned 
 * [序章通关流程全图解](zh/prologue-walkthrough.md) - 逃生舱脱困、滑翔翼抢修与夺取云际巡航母舰。
 * [制作与研究指南](zh/crafting-and-blueprints.md) - 营地材料准备、遗物研究与搬营版本范围。
 * [空战机动与载具武装](zh/weapons-and-combat.md) - 动能机炮、脉冲破盾光束与母舰 360 度近防点防卫网。
-* [天晶矿脉与高空废墟开采](zh/materials-and-mining.md) - 发光天晶、航空废料与黄蜂机载拖曳绞盘开采实操。
+* [资源获取与废料回收](zh/materials-and-mining.md) - 树脂、Silica、氢气与废料的来源及版本范围。
 * [氧气管理与高空高度层机制](zh/oxygen-management.md) - 三大垂直气压带、便携氧气罐提炼与水耕充能。
 * [联机与房主 FAQ](zh/co-op-multiplayer.md) - 玩家主持会话、独立服务器状态与存档准备。
 

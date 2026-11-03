@@ -1,45 +1,24 @@
 ---
-title: "ATMOSFAR Oxygen Management Guide: Altitude Survival"
-description: "Master atmospheric pressure and oxygen survival in ATMOSFAR. Understand altitude boundaries, canister refilling, and Cloud Cruiser hydroponics."
+title: "ATMOSFAR Oxygen Depletion Mechanics: What Is Confirmed"
+description: "Use the current HUD and measured resource use to plan a safe return; exact altitude-based oxygen rules remain unverified."
 category: "Survival Mechanics"
 badge: "EARLY ACCESS SYSTEM • OCT 2026"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-26"
 icon: "ri-heart-pulse-line"
 lang: "en"
 ---
 
-On **planet Tycos**, oxygen is not a passive stat—it is an active flight parameter tied directly to your barometric altitude. Unlike traditional terrestrial survival games where air is universally breathable, **ATMOSFAR** simulates high-altitude hypoxia, air filtration saturation, and rapid decompression risks.
+## Resource management comes first
 
-Understanding the vertical stratification of the sky canyon is paramount before venturing far from the oxygenated halls of your **Cloud Cruiser**.
+The official website lists oxygen, electricity and fuel among the resources you need to manage. These are separate checks: a tool losing power is not proof that oxygen is depleted. Read the HUD and tutorial for the resource and warning shown in your current build.
 
----
+## Avoid unsupported thresholds
 
-## The Three Vertical Atmospheric Strata
+No precise altitude thresholds, oxygen drain multipliers or oxygen injection recipes have been verified by this guide. For planning, record the starting amount and amount remaining after a timed safe trip, then use a conservative measured rate in the reserve planner.
 
-Tycos features three distinct pressure zones marked clearly on your HUD altimeter:
+## Official sources
 
-### 1. Temperate Cloud Stratum (0m to 1,200m)
-* **Status**: Breathable with basic suit intake valves.
-* **Filter Wear**: 1.0x baseline degradation.
-* **Environment**: Floating islands in this layer feature green hardy mosses, small fresh-water condensation pools, and gentle thermal updrafts.
-
-### 2. Hypoxic Mesosphere (1,200m to 2,800m)
-* **Status**: Air is too thin for standard suit intake.
-* **Filter Wear**: 2.8x accelerated drain.
-* **Requirement**: You must consume pressurized **Oxygen Syringes** or operate from an airtight pressurized cockpit (such as the upgraded Wasp Class Mark II).
-* **Hazards**: Lingering here without supplemental O2 causes blurry vision, loss of stamina recovery, and eventually blackout.
-
-### 3. The Toxic Abyssal Sea (Below 0m Sea Level)
-* **Status**: Extreme toxic chemical vapor and crushing barometric pressure.
-* **Hazard**: Immediate hull corrosion and suit failure. If a player or airship descends below zero elevation, ejection and emergency grapple deployment is the only survival option.
-
----
-
-## Crafting & Refilling Oxygen Reserves
-
-To sustain long-range expeditions away from base:
-1. **Portable Oxygen Canisters**: Crafted at the suit station using `8x Aerograde Scrap` and `2x Condensation Crystals`.
-2. **Motherbase Hydroponics Scrubbers**: The Cloud Cruiser's hydroponics bay continuously pumps pure oxygen into the carrier's interior. Standing inside the docking bay automatically replenishes suit oxygen reserves at zero fuel cost.
-3. **Emergency Injection**: Assign Oxygen Syringes to keybind `X` on your keyboard for instantaneous 35% life-support restoration during aerial dogfights.
+- [ATMOSFAR](https://www.atmosfar.game/)
+- [Steam](https://store.steampowered.com/app/1798230/ATMOSFAR/)
