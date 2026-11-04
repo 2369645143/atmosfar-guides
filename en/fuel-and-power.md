@@ -1,14 +1,28 @@
 ---
-title: "ATMOSFAR Fuel & Power Guide: Hydrogen, Camp & Repairs"
-description: "Refuel your Wasp, charge backpack tools and check Camp Hub electricity. Learn the difference between hydrogen fuel and power."
+title: "ATMOSFAR Hydrogen Crystals: Refinery Power and No-Output Checks"
+seoTitle: "ATMOSFAR Hydrogen Crystals: Refinery Power & No-Output Checks"
+description: "Find hydrogen crystal terrain clues, check refinery electricity and diagnose no liquid hydrogen output, with dated alpha, developer and community limits."
 category: "Survival Systems"
 badge: "DEVELOPER SOURCE GUIDE"
 readingTime: "5 min read"
 publishDate: "2026-10-16"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-04"
 icon: "ri-flashlight-line"
 lang: "en"
 ---
+
+## Where are hydrogen crystals, and why is the refinery not producing?
+
+**Direct answer, sources rechecked November 4, 2026:** the [March 3, 2025 alpha Wasp design blog](https://www.atmosfar.game/feed/dev-blog-5-wasps-101) describes hydrogen crystals as most common near hydrogen geysers and a refinery converting crystals into liquid hydrogen. This is a historical terrain clue, not a verified current resource map, recipe, rate or coordinate. The [Cruiser design blog](https://www.atmosfar.game/feed/dev-blog-9-cloud-cruiser-pt-1) says refineries need electricity. [Browse sourced landmark clues](/tools/map/).
+
+If production stops, check crystals → the current interface's required inputs → power supply and Hub connections → output storage. This is an editorial diagnostic sequence, not a guaranteed fix. Fuel for flight, backpack charge and camp electricity are separate systems.
+
+**Research demand:** the [developer reply](https://steamcommunity.com/app/1798230/discussions/0/573805072991219592/#c573805072991220489), rechecked November 4, says to watch the Hub as research consumes power over time; it names Utility Wasp, fuel generator and researched solar panels. It gives no fixed demand or completed UX fix.
+
+**Camp wiring is community guidance:** [echo's accepted launch-day reply](https://steamcommunity.com/app/1798230/discussions/0/573805072991127017/#c573805072991131697), rechecked November 4, distinguishes the rear-left Utility Wasp fuel inlet from the rear-right electrical connection and suggests running the engine and connecting the Hub. This is not an official universal repair or measured output claim.
+
+Jump to [fuel preparation](#how-to-prepare-wasp-fuel), [backpack charge](#utility-wasp-backpack-charge), [research demand](#research-power-monitor-the-hub-while-it-runs), [camp equipment](#camp-equipment-will-not-run), or [refinery checks](#quick-troubleshooting-order). Older sections retain their original verification dates and scope.
+
 
 <h2 id="utility-wasp-backpack-charge">Can the Utility Wasp charge the backpack?</h2>
 

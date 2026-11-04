@@ -109,3 +109,7 @@ Official fixes, community routes and editorial planning are labelled separately.
 
 - [guides/prologue-walkthrough](en/prologue-walkthrough.md) · [中文](zh/prologue-walkthrough.md) · [Website](https://atmosfarwiki.com/guides/prologue-walkthrough/)
 - [controls](en/controls.md) · [中文](zh/controls.md) · [Website](https://atmosfarwiki.com/controls/)
+
+## Landmark lookup / 地标查找
+
+The bilingual, source-scoped landmark data is mirrored in `data/landmarks.json`. It contains text clues, not verified coordinates or a spatial map. Use the live [English finder](https://atmosfarwiki.com/tools/map/) or [中文地标查找](https://atmosfarwiki.com/zh/tools/map/). Historical alpha and community limits stay attached to each entry.

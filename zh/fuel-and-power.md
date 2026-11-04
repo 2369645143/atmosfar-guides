@@ -1,15 +1,28 @@
 ---
-title: "ATMOSFAR 燃料与供电指南：液氢营地电力和飞行器维修"
-seoTitle: "ATMOSFAR 燃料与供电指南：液氢、背包充电和营地箱子排查 | ATMOSFAR Wiki: Early Access"
-description: "了解黄蜂液氢补给、背包充电、Camp Hub 营地供电和母舰反应堆，按现象排查设备停工。"
+title: "ATMOSFAR 氢晶体与液氢：精炼厂供电和无产出排查"
+seoTitle: "ATMOSFAR 氢晶体与液氢：精炼厂供电和无产出排查 | ATMOSFAR Wiki: Early Access"
+description: "氢晶体在哪里、精炼厂为何不产液氢？按晶体、当前输入、电源与 Hub、输出储存逐项检查，区分历史 Alpha 地貌、开发者耗电说明与社区接线建议，不保证通用修复。"
 category: "补给与维修"
 badge: "开发者资料指南"
 readingTime: "5 分钟阅读"
 publishDate: "2026-10-16"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-04"
 icon: "ri-flashlight-line"
 lang: "zh"
 ---
+
+## 氢晶体在哪里，精炼设备为什么不产液氢？
+
+<strong>直接答案，2026 年 11 月 4 日重新核对来源：</strong>[2025 年 3 月 3 日 Alpha Wasp 设计日志](https://www.atmosfar.game/feed/dev-blog-5-wasps-101)称氢晶体在氢间歇泉附近最常见，精炼设备将晶体转成液氢。这是历史地貌线索，不是已核实的当前资源地图、配方、速率或坐标。[母舰设计日志](https://www.atmosfar.game/feed/dev-blog-9-cloud-cruiser-pt-1)说明精炼设备需要电力。[浏览有来源地标线索](/zh/tools/map/)。
+
+停产时按“晶体 → 当前界面所需输入 → 电源与 Hub 连接 → 输出储存”检查。这是编辑排查顺序，不保证修好所有情况。飞行燃料、背包电量和营地电力是不同系统。
+
+<strong>研究耗电：</strong>11 月 4 日重读的[开发者回复](https://steamcommunity.com/app/1798230/discussions/0/573805072991219592/#c573805072991220489)提醒研究会持续消耗电力，应观察 Hub；供电选择包括 Utility Wasp、燃料发电机、研究后太阳能板。回复没有给固定需求或已完成的 UX 修复。
+
+<strong>营地接线是社区指导：</strong>11 月 4 日重读的[echo 首发采纳回复](https://steamcommunity.com/app/1798230/discussions/0/573805072991127017/#c573805072991131697)区分 Utility Wasp 后方左侧燃料口与右侧电力连接，建议运行发动机并连接 Hub。这不是官方通用修复承诺，也不是实测功率。
+
+按症状跳转：[燃料准备](#如何准备黄蜂燃料)、[背包充电](#utility-wasp-backpack-charge)、[研究耗电](#研究台运行时观察-hub-电力)、[营地设备](#营地设备为什么不工作)、[精炼检查](#快速排查顺序)。旧章节保留原核实日期与适用范围。
+
 
 <h2 id="utility-wasp-backpack-charge">Utility Wasp 能给背包充电吗？</h2>
 
