@@ -12,13 +12,15 @@
       "title": "Weather-data settlement",
       "location": "Largest settlement on the island; one of the larger upper buildings.",
       "task": "Find weather data, separate from the military base.",
-      "limits": "Exact island coordinate and current patch are not verified."
+      "limits": "Exact island coordinate and current patch are not verified.",
+      "scope": "EA discussion, exact patch unspecified"
     },
     "zh": {
       "title": "天气数据聚落",
       "location": "岛上最大聚落，较大的上层建筑之一。",
       "task": "寻找天气数据；与军事基地分开。",
-      "limits": "未核实精确坐标及当前补丁。"
+      "limits": "未核实精确坐标及当前补丁。",
+      "scope": "抢先体验讨论；未注明具体补丁"
     }
   },
   {
@@ -34,13 +36,15 @@
       "title": "Military base: Striker Wasp",
       "location": "Military base, distinct from the weather-data settlement.",
       "task": "Look for the Striker Wasp.",
-      "limits": "No exact coordinate or complete unlock sequence verified here."
+      "limits": "No exact coordinate or complete unlock sequence verified here.",
+      "scope": "EA exact patch unspecified"
     },
     "zh": {
       "title": "军事基地：Striker Wasp",
       "location": "军事基地，不是天气数据聚落。",
       "task": "寻找 Striker Wasp。",
-      "limits": "未核实精确坐标或完整解锁流程。"
+      "limits": "未核实精确坐标或完整解锁流程。",
+      "scope": "抢先体验；未注明具体补丁"
     }
   },
   {
@@ -56,13 +60,15 @@
       "title": "Silica: tire trench and rock pillars",
       "location": "Near the Horizon Isles weather-data settlement: tire-filled trench and narrow pillars with flared tops.",
       "task": "Community report places silica around and higher along pillar sides.",
-      "limits": "The author explicitly doubts the south direction. No exact coordinates verified."
+      "limits": "The author explicitly doubts the south direction. No exact coordinates verified.",
+      "scope": "EA exact patch unspecified"
     },
     "zh": {
       "title": "硅石：轮胎沟与石柱",
       "location": "Horizon Isles 天气数据聚落附近：轮胎沟及顶部外扩的细长石柱。",
       "task": "社区报告提到石柱周围及更高侧面有硅石。",
-      "limits": "原作者明确不确定是否在南方；未核实坐标。"
+      "limits": "原作者明确不确定是否在南方；未核实坐标。",
+      "scope": "抢先体验；未注明具体补丁"
     }
   },
   {
@@ -78,13 +84,15 @@
       "title": "Silica: upper white-rock shelf",
       "location": "Upper white-rock shelf on the military-post / Cloud Cruiser graveyard island.",
       "task": "Use terrain clues to investigate silica.",
-      "limits": "Island name, exact coordinates and deposit count are not verified."
+      "limits": "Island name, exact coordinates and deposit count are not verified.",
+      "scope": "EA exact patch unspecified"
     },
     "zh": {
       "title": "硅石：上层白色岩架",
       "location": "军事哨所／Cloud Cruiser 残骸所在岛的上层白色岩架。",
       "task": "按地貌线索寻找硅石。",
-      "limits": "未核实岛名、精确坐标或矿点数量。"
+      "limits": "未核实岛名、精确坐标或矿点数量。",
+      "scope": "抢先体验；未注明具体补丁"
     }
   },
   {
@@ -100,13 +108,15 @@
       "title": "Cave Wasp near the crashed Cruiser",
       "location": "Cave close to the crashed Cloud Cruiser.",
       "task": "Developer points to a different Wasp in this cave.",
-      "limits": "Does not verify every keycard or switch step; no exact coordinates."
+      "limits": "Does not verify every keycard or switch step; no exact coordinates.",
+      "scope": "EA exact patch unspecified"
     },
     "zh": {
       "title": "坠毁巡航舰附近洞穴的 Wasp",
       "location": "坠毁 Cloud Cruiser 附近的洞穴。",
       "task": "开发者指出这里有另一架 Wasp。",
-      "limits": "不代表已核实所有门卡或开关步骤；无精确坐标。"
+      "limits": "不代表已核实所有门卡或开关步骤；无精确坐标。",
+      "scope": "抢先体验；未注明具体补丁"
     }
   },
   {
@@ -122,13 +132,15 @@
       "title": "Reactor core intake",
       "location": "Top intake, then the reactor below; not the Wasp landing pad.",
       "task": "Community suggests dropping the core through the top, then equipping/selecting it below.",
-      "limits": "No precise key or coordinate verified; no promise to recover lost items."
+      "limits": "No precise key or coordinate verified; no promise to recover lost items.",
+      "scope": "EA exact patch unspecified"
     },
     "zh": {
       "title": "反应堆核芯投入口",
       "location": "顶部投入口，然后到下方反应堆；不是 Wasp 停机坪。",
       "task": "社区建议从顶部放入核芯，再在下方装备／选择。",
-      "limits": "未核实精确键位或坐标；不保证找回丢失物品。"
+      "limits": "未核实精确键位或坐标；不保证找回丢失物品。",
+      "scope": "抢先体验；未注明具体补丁"
     }
   },
   {
@@ -144,13 +156,15 @@
       "title": "Hydrogen geyser terrain clue",
       "location": "Generic hydrogen-geyser terrain described in the March 2025 alpha design.",
       "task": "The official blog describes hydrogen crystals as most common near geysers.",
-      "limits": "Historical alpha design, not a current resource map; no island or coordinate verified."
+      "limits": "Historical alpha design, not a current resource map; no island or coordinate verified.",
+      "scope": "March 3 2025 alpha design; not current exact resource map"
     },
     "zh": {
       "title": "氢间歇泉地貌线索",
       "location": "2025 年 3 月 Alpha 设计介绍的一般氢间歇泉地貌。",
       "task": "官方日志称氢晶体在间歇泉附近最常见。",
-      "limits": "历史 Alpha 设计，不是当前资源地图；未核实岛名或坐标。"
+      "limits": "历史 Alpha 设计，不是当前资源地图；未核实岛名或坐标。",
+      "scope": "2025 年 3 月 3 日 Alpha 设计资料；并非当前版本精确资源地图"
     }
   }
 ]
