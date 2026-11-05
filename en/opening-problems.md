@@ -5,7 +5,7 @@ category: "Starter Troubleshooting"
 badge: "EARLY ACCESS · SOURCE CHECK"
 readingTime: "8 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "EA 1.0-6 / 1.0-7 and community additions checked 2026-11-01. EA 1.0-5 and new community replies checked October 31, 2026. Earlier EA 1.0-4 checks retain their October 30 scope. Official and community evidence are identified separately; this is not a release-build playtest."
 icon: "ri-map-pin-line"
 lang: "en"
@@ -100,6 +100,10 @@ First read the target name in your active objective. The [PACE Scope frequency d
 </details>
 
 If tuning does not advance the objective, record its exact text, target name and installed version rather than assuming that repeating a number completes every prerequisite.
+
+<h3 id="pace-security-tuning-ea109">EA 1.0-9: Security Base tuning</h3>
+
+**Updated English EA 1.0-9 notes, checked November 5:** [VENU-15168](https://steamcommunity.com/app/1798230/allnews/?l=english) lists intermittent Security Base tuning failure with the Scope. This is separate from the community numbers above and the [EA 1.0-7 older-save progression issue](#ea-1-0-7-fixes); it guarantees neither a universal frequency nor save recovery.
 
 ## Weather data and the military base
 

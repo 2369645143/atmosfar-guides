@@ -6,7 +6,7 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
@@ -25,6 +25,8 @@ lang: "zh"
 **[官方热修复，更新版英文原文](https://store.steampowered.com/news/app/1798230/view/712290761518877157?l=english)。** 更新版公告列出保存重载后的核心重生位置（VENU-15017）、提取时偶发卡角落（VENU-14937），以及 Hub 可放在已收纳 Hub 上方的问题（VENU-15090）。
 
 对于**已经卡住的核心**，开发者表示部分玩家需要保存并重载，才会触发重生。这是特定问题的说明，不是万能恢复操作。参见[核心交付与恢复](/zh/guides/reactor-core-delivery/)。
+
+**更新版英文公告，11 月 5 日核实：**[EA 1.0-9 VENU-15168](https://steamcommunity.com/app/1798230/allnews/?l=english)还列出 Scope 偶发无法调谐 PACE Security Base 的问题。[区分频率与进度症状](/zh/guides/opening-problems/#pace-security-tuning-ea109)，不保证通用频率或存档恢复。
 
 <h2 id="experimental-1-0-10">EA 1.0-10 预览：仅实验分支</h2>
 

@@ -5,11 +5,20 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
 ---
+
+<nav aria-label="Fort Hannigan problem shortcuts">
+<ul>
+<li><a href="/guides/opening-problems/#fort-hannigan-keycard">Keycard room</a></li>
+<li><a href="/guides/opening-problems/#fort-hannigan-fuses">Four fuses</a></li>
+<li><a href="/guides/opening-problems/#ea-1-0-6-fixes">Hangar door</a></li>
+<li><a href="/guides/opening-problems/#ea-1-0-7-fixes">Older-save progression reset</a></li>
+</ul>
+</nav>
 
 ## Start with the military base objective
 

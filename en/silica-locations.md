@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -30,6 +30,8 @@ RepairArtist, reply #5 in the same thread, reports a white rock shelf on the upp
 **Editorial search plan:** compare the island name and active objective, carry return fuel, and inspect the object prompt to confirm that the item is Silica. Record the landmark where you actually collect it. Do not confuse an approximate forum direction with an exact marked deposit.
 
 The older [“silicone?” discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546275203/) uses ambiguous material wording. Its cave suggestion is a secondary search lead, not a verified Silica route.
+
+Use the [sourced landmark finder](/tools/map/) to browse attributed text clues for Silica and nearby objectives. It is a landmark index, not a precise world map; coordinates remain unverified.
 
 ## Related tasks
 

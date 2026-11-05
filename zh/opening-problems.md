@@ -6,7 +6,7 @@ category: "开局排错"
 badge: "抢先体验 · 来源核验"
 readingTime: "8 分钟阅读"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "EA 1.0-6 / 1.0-7 与新增社区提示核验于 2026-11-01。2026 年 10 月 31 日核对 EA 1.0-5 及新增社区回复；较早的 EA 1.0-4 保留 10 月 30 日适用范围。官方说明、开发者回复和社区答案分别标注，本文并非实机通关记录。"
 icon: "ri-map-pin-line"
 lang: "zh"
@@ -101,6 +101,10 @@ lang: "zh"
 </details>
 
 调频没有推进任务时，记录完整任务文字、目标名及已安装版本，不要假设重复输入一个数字就能满足所有前置条件。
+
+<h3 id="pace-security-tuning-ea109">EA 1.0-9：Security Base 调谐</h3>
+
+**EA 1.0-9 更新版英文公告，11 月 5 日核实：**[VENU-15168](https://steamcommunity.com/app/1798230/allnews/?l=english)列出 Scope 偶发无法调谐 Security Base 的问题。它与上方社区数字及 [EA 1.0-7 旧档进度问题](#ea-1-0-7-fixes)分别记录，不保证通用频率或存档恢复。
 
 ## 天气数据与军事基地
 

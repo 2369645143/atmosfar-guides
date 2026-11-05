@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -24,6 +24,8 @@ Inventory is retained after death/respawn (VENU-14887). The Hauler magnet has a 
 **[Official hotfix, updated English notes](https://store.steampowered.com/news/app/1798230/view/712290761518877157?l=english).** The updated notes cover core respawn locations after save/reload (VENU-15017), rare extraction corner traps (VENU-14937), and placing a Hub atop a stored Hub (VENU-15090).
 
 For an **already stuck core**, some players may need to save and reload to trigger respawning. This is the developer's scoped instruction, not a universal recovery method. See [core delivery and recovery](/guides/reactor-core-delivery/).
+
+**Updated English notes, checked November 5:** [EA 1.0-9 VENU-15168](https://steamcommunity.com/app/1798230/allnews/?l=english) also lists intermittent Scope tuning failure for the PACE Security Base. [Compare frequency and progression symptoms](/guides/opening-problems/#pace-security-tuning-ea109); no universal frequency or save-recovery guarantee.
 
 <h2 id="experimental-1-0-10">EA 1.0-10 preview: experimental branch</h2>
 

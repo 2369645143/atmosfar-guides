@@ -6,11 +6,20 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
 ---
+
+<nav aria-label="Fort Hannigan 问题导航">
+<ul>
+<li><a href="/zh/guides/opening-problems/#fort-hannigan-keycard">门禁卡房间</a></li>
+<li><a href="/zh/guides/opening-problems/#fort-hannigan-fuses">四枚保险丝</a></li>
+<li><a href="/zh/guides/opening-problems/#ea-1-0-6-fixes">机库门</a></li>
+<li><a href="/zh/guides/opening-problems/#ea-1-0-7-fixes">旧档进度重置</a></li>
+</ul>
+</nav>
 
 ## 先读军事基地任务目标
 
