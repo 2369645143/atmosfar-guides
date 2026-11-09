@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-09"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -27,6 +27,8 @@ This is a **task navigator**, not a claim of a complete, playtested campaign or 
 | Expand after obtaining the Cruiser | [Building plans](/guides/cloud-cruiser-builds/) / [Silica](/guides/silica-locations/) | Editorial layouts and community resource landmarks |
 
 ## Landmark index: map searches without invented coordinates
+
+Use the [ATMOSFAR map and landmark finder](/tools/map/) to filter sourced clues by resource, quest or vehicle unlock.
 
 - **Crashed Cloud Cruiser / nearby cave:** developer-confirmed search lead for another Wasp. [Source](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/).
 - **Weather-data settlement and military base:** the developer says they are on the same island but are different destinations. [Source](https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966).

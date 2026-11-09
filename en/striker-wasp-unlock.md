@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -19,6 +19,14 @@ lang: "en"
 <li><a href="/guides/opening-problems/#ea-1-0-7-fixes">Older-save progression reset</a></li>
 </ul>
 </nav>
+
+<h2 id="fort-hannigan-route">What to do when you reach Fort Hannigan</h2>
+
+**Community route checklist.** The developer confirms the military base is the Striker destination. The card location and hangar power steps below come from player reports.
+
+1. **Start at the power building's fuse panel.** The community checklist describes one fuse already fitted. Check the count before searching. If your objective asks for the access card, the original poster found it in the room beside the four fuses. [Access card thread](https://steamcommunity.com/app/1798230/discussions/0/573805391546294705/)
+2. **Check two storage rooms.** Players report one fuse in the power building's storage room and another in the storage room near the restricted turret shutoff room.
+3. **Power the M6 hangar door before searching inside.** A player routed power from a nearby pylon through extension nodes, then checked the hangar for a fuse. Other players reported a missing hangar fuse, so compare the door state and your game version if you get stuck. [Fuse thread and conflicting reports](https://steamcommunity.com/app/1798230/discussions/0/573805391546180015/)
 
 ## Start with the military base objective
 

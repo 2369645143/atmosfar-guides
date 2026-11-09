@@ -6,7 +6,7 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-09"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
@@ -28,6 +28,8 @@ lang: "zh"
 | 取得母舰后扩建 | [建造方案](/zh/guides/cloud-cruiser-builds/)／[Silica](/zh/guides/silica-locations/) | 编辑布局＋社区资源地标 |
 
 ## 地点索引：用地标导航，不编造坐标
+
+打开[地图与地标查找工具](/zh/tools/map/)，可按资源、任务或载具解锁筛选有出处的地标线索。
 
 - <strong>坠毁母舰／附近洞穴：</strong>开发者确认寻找另一种 Wasp 的方向。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/)。
 - <strong>天气数据聚落与军事基地：</strong>开发者说明它们在同一岛上，但不是同一目的地。[出处](https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966)。

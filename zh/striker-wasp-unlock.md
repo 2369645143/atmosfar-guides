@@ -6,7 +6,7 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
@@ -20,6 +20,14 @@ lang: "zh"
 <li><a href="/zh/guides/opening-problems/#ea-1-0-7-fixes">旧档进度重置</a></li>
 </ul>
 </nav>
+
+<h2 id="fort-hannigan-route">抵达 Fort Hannigan 后先做什么</h2>
+
+**社区路线速查。** 开发者确认 Striker 在军事基地。门禁卡位置和机库供电步骤来自玩家回帖。
+
+1. **先检查供电楼的保险丝面板。** 社区清单里已有一枚保险丝插在面板上；先核对数量，再找剩余的。若任务要求门禁卡，原帖作者确认在四枚保险丝旁的房间找到了卡。[门禁卡原帖](https://steamcommunity.com/app/1798230/discussions/0/573805391546294705/)
+2. **先找两间储藏室。** 玩家报告供电楼储藏室有一枚，另一枚在关闭炮塔的限制区房间附近的储藏室。
+3. **给 M6 机库门供电，再进机库查找。** 玩家描述从附近电杆经延长节点接电，进去后在机库找保险丝。也有玩家报告机库缺保险丝；遇到这种情况，先对照门状态和游戏版本。[保险丝原帖及不同报告](https://steamcommunity.com/app/1798230/discussions/0/573805391546180015/)
 
 ## 先读军事基地任务目标
 
