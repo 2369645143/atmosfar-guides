@@ -6,7 +6,7 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
@@ -14,7 +14,12 @@ lang: "zh"
 
 ## 快速回答：先去哪找？
 
-<strong>社区回答，2026 年 11 月 3 日核实：</strong> [“cant find silica” 原帖](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)中，玩家描述后期岛屿上的大型石英状晶体。两个回复给出可用地标，但没有经本站验证的坐标或完整矿点地图。
+**先看两处玩家报告的地标**（[Steam 社区原帖](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)，2026 年 11 月 3 日核实）：
+
+- **Horizon Isles 天气数据聚落附近：** 找堆有轮胎的沟和顶部外扩的高瘦石柱。Rusty Spoons（#7）提到石柱周围和较高的侧面有 Silica，指南针方向不确定。
+- **军事哨所／母舰墓场所在岛屿：** 查看岛屿上层的白色岩台。这条线索来自 RepairArtist（#5）。
+
+精确坐标尚未核实。可在[地图与地标查找工具](/zh/tools/map/)对照两条线索。
 
 <details>
 <summary>展开 Horizon Isles 地标（位置剧透）</summary>
@@ -31,8 +36,6 @@ lang: "zh"
 <strong>编辑寻找建议：</strong>先核对岛名和任务目标，带够返程燃料；靠近物体后查看交互提示，确认拾取物名称确为 Silica。把实际采集成功处的地标记下来，别把论坛大致方向当成地图坐标。
 
 更早的 [“silicone?” 讨论](https://steamcommunity.com/app/1798230/discussions/0/573805391546275203/)物品用词含糊，其中洞穴说法仅作为次要线索，不是已验证 Silica 路线。
-
-可用[有出处的地标查找工具](/zh/tools/map/)浏览 Silica 与附近任务的文字线索。它是地标索引，不是精确世界地图；坐标仍未验证。
 
 ## 相关任务
 

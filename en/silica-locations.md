@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -13,7 +13,12 @@ lang: "en"
 
 ## Quick answer: where should I look?
 
-**Community answers, checked November 3, 2026:** in the [“cant find silica” thread](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/), players describe large quartz-like crystals in the later islands. Two replies give useful landmarks, but no verified coordinates or complete deposit map.
+**Two player-reported places to check** ([original Steam discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/), checked November 3, 2026):
+
+- **Horizon Isles weather-data settlement:** Find the nearby tire-filled trench and tall, narrow rock pillars with flared tops. Rusty Spoons (#7) reports Silica around the pillars and higher up their sides. The compass direction is uncertain.
+- **Military post / Cloud Cruiser graveyard island:** Check the upper white-rock shelf reported by RepairArtist (#5).
+
+Exact coordinates are unverified. Compare both clues in the [map and landmark finder](/tools/map/).
 
 <details>
 <summary>Show Horizon Isles landmarks (location spoilers)</summary>
@@ -30,8 +35,6 @@ RepairArtist, reply #5 in the same thread, reports a white rock shelf on the upp
 **Editorial search plan:** compare the island name and active objective, carry return fuel, and inspect the object prompt to confirm that the item is Silica. Record the landmark where you actually collect it. Do not confuse an approximate forum direction with an exact marked deposit.
 
 The older [“silicone?” discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546275203/) uses ambiguous material wording. Its cave suggestion is a secondary search lead, not a verified Silica route.
-
-Use the [sourced landmark finder](/tools/map/) to browse attributed text clues for Silica and nearby objectives. It is a landmark index, not a precise world map; coordinates remain unverified.
 
 ## Related tasks
 
