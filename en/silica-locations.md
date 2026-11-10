@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-10"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -19,6 +19,8 @@ lang: "en"
 - **Military post / Cloud Cruiser graveyard island:** Check the upper white-rock shelf reported by RepairArtist (#5).
 
 Exact coordinates are unverified. Compare both clues in the [map and landmark finder](/tools/map/).
+
+**Gameplay screenshot: recognize the weather-data settlement.** [Open Cake Assortment’s November 2 Steam screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3831981853). Look for the red **S4** marking and the **Horizon Isles** label on the HUD. The uploader identifies S4 in the [weather-data discussion](https://steamcommunity.com/app/1798230/discussions/0/573805072991174119/#c573805391546340019). Use the settlement as a starting landmark, then look along its edge for the tire-filled trench described in the Silica thread. The screenshot shows the settlement only. The trench, rock pillars and white-rock shelf are still community leads without a verified image here.
 
 <details>
 <summary>Show Horizon Isles landmarks (location spoilers)</summary>

@@ -6,7 +6,7 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-10"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
@@ -20,6 +20,8 @@ lang: "zh"
 - **军事哨所／母舰墓场所在岛屿：** 查看岛屿上层的白色岩台。这条线索来自 RepairArtist（#5）。
 
 精确坐标尚未核实。可在[地图与地标查找工具](/zh/tools/map/)对照两条线索。
+
+**实机截图：辨认天气数据聚落。** [打开 Cake Assortment 于 11 月 2 日发布的 Steam 原图](https://steamcommunity.com/sharedfiles/filedetails/?id=3831981853)。画面中能看到红色 **S4** 标记和 HUD 上的 **Horizon Isles** 岛名。作者在[天气数据任务讨论](https://steamcommunity.com/app/1798230/discussions/0/573805072991174119/#c573805391546340019)中标明了 S4。先用图确认聚落，再沿聚落边缘寻找 Silica 原帖提到的轮胎沟。原图只用于辨认聚落。轮胎沟、石柱和白色岩台仍是社区文字线索。
 
 <details>
 <summary>展开 Horizon Isles 地标（位置剧透）</summary>
