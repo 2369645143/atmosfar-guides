@@ -5,11 +5,17 @@ category: "Troubleshooting"
 badge: "EARLY ACCESS · EA 1.0-6 / 1.0-5 / 1.0-4"
 readingTime: "4 min read"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-10"
 sourceNote: "EA 1.0-6 NVIDIA frame generation checked 2026-11-01. EA 1.0-5 notes checked October 31, 2026; earlier EA 1.0-4 notes retain their October 30 scope. This is source-based troubleshooting, not a device benchmark or guarantee of a fix."
 icon: "ri-tools-line"
 lang: "en"
 ---
+
+<h2 id="firestorm-crash-experimental">Crash when a firestorm starts</h2>
+
+**November 9, 2026 · Experimental branch.** An Apog developer said the team was testing a possible fix for a crash at the start of a firestorm. The team could not reproduce the crash internally and asked players to watch for regressions after further Experimental changes. [Developer and player replies on Steam](https://steamcommunity.com/app/1798230/discussions/0/573806123111433810/).
+
+**One player report.** A player who had reported the crash said it stopped on **EA 1.0-12 Experimental (18432-272)**. This is a result from one player on that build. The fix remains unconfirmed on the default branch.
 
 <h2 id="inventory-crash-ea-1-0-8">EA 1.0-8 inventory crash; Experimental FOV preview</h2>
 

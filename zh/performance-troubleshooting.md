@@ -6,11 +6,17 @@ category: "问题排查"
 badge: "抢先体验 · EA 1.0-6 / 1.0-5 / 1.0-4"
 readingTime: "4 分钟阅读"
 publishDate: "2026-10-30"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-10"
 sourceNote: "EA 1.0-6 NVIDIA 帧生成核验于 2026-11-01。2026 年 10 月 31 日核对 EA 1.0-5；较早的 EA 1.0-4 保留 10 月 30 日适用范围。本文为资料排查指南，并非实机跑分，也不保证解决所有问题。"
 icon: "ri-tools-line"
 lang: "zh"
 ---
+
+<h2 id="firestorm-crash-experimental">火风暴开始时崩溃</h2>
+
+**2026 年 11 月 9 日 · Experimental 测试分支。** Apog 开发者表示，团队正在测试一项针对火风暴开始时崩溃的修复。团队内部仍无法复现，并请玩家留意后续测试更新是否让问题再次出现。[Steam 原帖中的开发者与玩家回复](https://steamcommunity.com/app/1798230/discussions/0/573806123111433810/)。
+
+**单名玩家反馈。** 一名此前遇到崩溃的玩家表示，在 **EA 1.0-12 Experimental（18432-272）** 上不再崩溃。这是单名玩家在该构建上的结果，默认分支的修复状态仍未确认。
 
 <h2 id="inventory-crash-ea-1-0-8">EA 1.0-8 库存崩溃与实验 FOV 预览</h2>
 
