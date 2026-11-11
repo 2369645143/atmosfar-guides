@@ -6,7 +6,7 @@ category: "抢先体验攻略"
 badge: "来源核实 · 抢先体验"
 readingTime: "4 分钟阅读"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-10"
+updatedDate: "2026-11-11"
 sourceNote: "下文区分官方资料、原始社区回答与编辑建议。核实日期 2026-11-03，不代表本站已实机通关。"
 icon: "ri-compass-line"
 lang: "zh"
@@ -14,20 +14,13 @@ lang: "zh"
 
 ## 快速回答：先去哪找？
 
-**先看两处玩家报告的地标**（[Steam 社区原帖](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)，2026 年 11 月 3 日核实）：
+按玩家报告，从 Horizon Isles 的天气数据聚落开始找。
 
-- **Horizon Isles 天气数据聚落附近：** 找堆有轮胎的沟和顶部外扩的高瘦石柱。Rusty Spoons（#7）提到石柱周围和较高的侧面有 Silica，指南针方向不确定。
-- **军事哨所／母舰墓场所在岛屿：** 查看岛屿上层的白色岩台。这条线索来自 RepairArtist（#5）。
+1. **认出聚落。** 在 HUD 上确认 **Horizon Isles**，再找建筑上的红色 **S4** 标识。[查看 Cake Assortment 11 月 2 日的 Steam 实机截图](https://steamcommunity.com/sharedfiles/filedetails/?id=3831981853)。截图拍的是聚落起点。[作者对 S4 的说明](https://steamcommunity.com/app/1798230/discussions/0/573805072991174119/#c573805391546340019)
+2. **沿聚落边缘找轮胎沟。** Rusty Spoons（#7）描述了一条靠着聚落、堆有轮胎的沟。作者记不准指南针方向，优先对照地形。[Silica 社区原帖](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)
+3. **找顶部外扩的高瘦石柱。** 玩家在石柱周围和较高的侧面发现过 Silica。靠近后查看物品提示，确认是 Silica。
 
-精确坐标尚未核实。可在[地图与地标查找工具](/zh/tools/map/)对照两条线索。
-
-**实机截图：辨认天气数据聚落。** [打开 Cake Assortment 于 11 月 2 日发布的 Steam 原图](https://steamcommunity.com/sharedfiles/filedetails/?id=3831981853)。画面中能看到红色 **S4** 标记和 HUD 上的 **Horizon Isles** 岛名。作者在[天气数据任务讨论](https://steamcommunity.com/app/1798230/discussions/0/573805072991174119/#c573805391546340019)中标明了 S4。先用图确认聚落，再沿聚落边缘寻找 Silica 原帖提到的轮胎沟。原图只用于辨认聚落。轮胎沟、石柱和白色岩台仍是社区文字线索。
-
-<details>
-<summary>展开 Horizon Isles 地标（位置剧透）</summary>
-<p>Rusty Spoons 在 #7 回复中从天气数据任务所在聚落出发：找附近堆有轮胎的沟，再寻找高瘦、顶部向外扩张的石柱。该回复称 Silica 分布在这片区域，以及石柱更高处的侧面。</p>
-<p>作者回忆向南走，但自己也明确表示方向不确定。优先对照轮胎沟和石柱形状，不把“向南”当成保证正确的导航指令。</p>
-</details>
+白色岩台是另一条社区线索。两处的精确坐标都尚未核实，可在[地图与地标查找工具](/zh/tools/map/)对照。
 
 ## 另一处玩家报告的区域
 

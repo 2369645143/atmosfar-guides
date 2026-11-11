@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-10"
+updatedDate: "2026-11-11"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -13,20 +13,13 @@ lang: "en"
 
 ## Quick answer: where should I look?
 
-**Two player-reported places to check** ([original Steam discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/), checked November 3, 2026):
+Players report finding Silica near the weather-data settlement on Horizon Isles.
 
-- **Horizon Isles weather-data settlement:** Find the nearby tire-filled trench and tall, narrow rock pillars with flared tops. Rusty Spoons (#7) reports Silica around the pillars and higher up their sides. The compass direction is uncertain.
-- **Military post / Cloud Cruiser graveyard island:** Check the upper white-rock shelf reported by RepairArtist (#5).
+1. **Identify the settlement.** Check for **Horizon Isles** on the HUD and the red **S4** marking on the building. [View Cake Assortment’s November 2 Steam screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3831981853). The screenshot shows the starting landmark. [Uploader’s S4 identification](https://steamcommunity.com/app/1798230/discussions/0/573805072991174119/#c573805391546340019)
+2. **Look along the settlement edge for a trench filled with tires.** Rusty Spoons (reply #7) describes the trench beside the settlement. The compass direction is uncertain, so use the terrain as your guide. [Original Silica discussion](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/)
+3. **Look for tall, narrow pillars with flared tops.** The player reports Silica around the pillars and higher up their sides. Get close and check that the item prompt says Silica.
 
-Exact coordinates are unverified. Compare both clues in the [map and landmark finder](/tools/map/).
-
-**Gameplay screenshot: recognize the weather-data settlement.** [Open Cake Assortment’s November 2 Steam screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3831981853). Look for the red **S4** marking and the **Horizon Isles** label on the HUD. The uploader identifies S4 in the [weather-data discussion](https://steamcommunity.com/app/1798230/discussions/0/573805072991174119/#c573805391546340019). Use the settlement as a starting landmark, then look along its edge for the tire-filled trench described in the Silica thread. The screenshot shows the settlement only. The trench, rock pillars and white-rock shelf are still community leads without a verified image here.
-
-<details>
-<summary>Show Horizon Isles landmarks (location spoilers)</summary>
-<p>Rusty Spoons, reply #7, starts at the settlement used for the weather-data objective. Find the nearby trench filled with tires, then look around the tall, narrow rock pillars that flare outward at their tops. The reply places Silica around that area and higher on the sides of the pillars.</p>
-<p>The author recalls going south but explicitly expresses uncertainty about that direction. Treat the trench and pillar shapes as the stronger landmarks; this is not a guaranteed compass route.</p>
-</details>
+The white-rock shelf is a separate community lead. Exact coordinates are unverified for both areas. Compare the clues in the [map and landmark finder](/tools/map/).
 
 ## Another player-reported search area
 
