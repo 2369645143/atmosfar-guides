@@ -5,7 +5,7 @@ category: "Early Access Guides"
 badge: "SOURCE CHECK · EA"
 readingTime: "4 min read"
 publishDate: "2026-11-03"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-11"
 sourceNote: "Official material, original community replies and editorial advice are distinguished below. Checked 2026-11-03; not our own release-build playtest."
 icon: "ri-compass-line"
 lang: "en"
@@ -33,7 +33,7 @@ Use the [ATMOSFAR map and landmark finder](/tools/map/) to filter sourced clues 
 - **Crashed Cloud Cruiser / nearby cave:** developer-confirmed search lead for another Wasp. [Source](https://steamcommunity.com/app/1798230/discussions/0/573805072991098811/).
 - **Weather-data settlement and military base:** the developer says they are on the same island but are different destinations. [Source](https://steamcommunity.com/app/1798230/discussions/0/573805072991227463/#c573805072991229966).
 - **Fort Hannigan:** use the card/fuse guide for the relevant objective; do not apply its keycard answer to every locked facility.
-- **Horizon Isles tire trench / flared pillars:** community Silica search landmarks, with uncertain compass direction. [Source](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/).
+- **Horizon Isles tire trench / flared pillars:** community Silica search landmarks, with uncertain compass direction. [Source](https://steamcommunity.com/app/1798230/discussions/0/573805391546438500/). [Follow the three-step Silica route](/guides/silica-locations/#quick-answer-where-should-i-look).
 
 This index provides named landmarks, not measured island positions, a complete collectible map or a shortest route.
 
